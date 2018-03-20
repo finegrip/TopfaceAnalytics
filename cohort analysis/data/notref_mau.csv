@@ -8501,7 +8501,7 @@
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:(user_mau.1712.topfacemobappandroid OR user_mau.1712.topfacemobappios OR user_mau.1712.topface OR user_mau.1712.standalonetf)",0
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:(user_mau.1801.topfacemobappandroid OR user_mau.1801.topfacemobappios OR user_mau.1801.topface OR user_mau.1801.standalonetf)","96,168"
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:(user_mau.1802.topfacemobappandroid OR user_mau.1802.topfacemobappios OR user_mau.1802.topface OR user_mau.1802.standalonetf)","17,384"
-"2018-01-01 00:00:00","first_app:standalonetf","*","135,822"
+"2018-01-01 00:00:00","first_app:standalonetf","*","48,663"
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:(user_mau.1501.topfacemobappandroid OR user_mau.1501.topfacemobappios OR user_mau.1501.topface OR user_mau.1501.standalonetf)",0
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:(user_mau.1502.topfacemobappandroid OR user_mau.1502.topfacemobappios OR user_mau.1502.topface OR user_mau.1502.standalonetf)",0
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:(user_mau.1503.topfacemobappandroid OR user_mau.1503.topfacemobappios OR user_mau.1503.topface OR user_mau.1503.standalonetf)",0
