@@ -1,0 +1,419 @@
+"ref ID","partner ID","ref date","user ID","registration date","payment ID","payment date","payment amount","revenue in cents","payment service ID","payment provider",platform,place,country,"last app","Product Id"
+9485,63,"2018-04-02 17:24:06",117622766,"2018-04-02 17:24:05",1,"2018-04-02 17:31:51",516,309,19,"Деньги от PaymentWall (mobile)",gp,none,DE,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",24,"2018-04-01 19:47:27",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+,,,117710948,"2018-04-06 15:21:56",3,"2018-04-09 18:12:30",984,688,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",3,"2018-04-10 23:27:59",300,291,67,"Деньги от Payment Ninja",fb,Gifts,CM,topfacemobappandroid,pn.likes.100.3
+,,,117702090,"2018-04-05 23:53:22",1,"2018-04-06 21:15:04",561,392,147,"Деньги от Google Play",st,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",5,"2018-04-10 23:37:58",100,97,19,"Деньги от Payment Ninja",fb,Gifts,CM,topfacemobappandroid,pn.coins.6.1
+,,,117572875,"2018-03-31 20:48:48",1,"2018-03-31 20:49:42",2542,1779,147,"Деньги от Google Play",fb,LeftMenu,CL,topfacemobappandroid,com.topface.topface.sub.vip.month.3.2699.v1
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",14,"2018-04-07 12:05:05",510,89,68,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8786,42,"2018-04-03 15:08:11",117645672,"2018-04-03 15:08:09",3,"2018-04-12 10:54:18",118,82,67,"Деньги от Google Play",vk,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.likes.100.3
+5611,45,"2018-04-02 21:33:59",117629424,"2018-04-02 21:33:59",1,"2018-04-06 02:48:34",1004,702,147,"Деньги от Google Play",ok,Fans,AM,topfacemobappandroidok,com.topface.topface.sub.vip.month.10
+,,,117648212,"2018-04-03 17:42:25",1,"2018-04-13 17:35:33",999,969,147,"Деньги от Payment Ninja",fb,Dating,DZ,topfacemobappandroid,pn.sub.vip.month.10
+,,,117654409,"2018-04-03 22:16:33",3,"2018-04-07 00:16:43",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117667599,"2018-04-04 13:32:10",4,"2018-04-12 04:32:26",500,485,19,"Деньги от Payment Ninja",st,EmptyLikes,KZ,topfacemobappandroid,pn.coins.40.5
+9485,63,"2018-04-01 11:10:10",117584826,"2018-04-01 11:10:09",1,"2018-04-10 18:11:35",393,275,146,"Деньги от Google Play",fb,EmptyLikes,SE,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9389,63,"2018-04-02 16:04:55",117620990,"2018-04-02 16:04:53",3,"2018-04-05 18:05:06",1600,1120,147,"Деньги от Google Play",gp,TrialVipPopup,FJ,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9531,63,"2018-04-03 01:08:01",117634458,"2018-04-03 01:08:00",1,"2018-04-04 16:03:10",510,176,68,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",14,"2018-04-05 12:56:01",38,26,19,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.coins.6.1
+9720,33,"2018-04-05 01:43:18",117682912,"2018-04-05 01:43:17",3,"2018-04-08 03:49:46",1932,1352,147,"Деньги от Google Play",gp,SendMessage,ES,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9582,63,"2018-04-02 11:23:37",117615451,"2018-04-02 11:23:35",4,"2018-04-02 12:45:08",572,400,147,"Деньги от Google Play",fb,Dating,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",26,"2018-04-05 09:46:51",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9389,63,"2018-04-02 08:53:47",117612931,"2018-04-02 08:53:46",4,"2018-04-05 10:53:53",1436,1005,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117576422,"2018-03-31 23:40:55",2,"2018-04-07 10:02:15",1080,1048,19,"Деньги от Payment Ninja",st,EmptyLikes,FR,topfacemobappandroid,pn.coins.100.10
+9464,63,"2018-04-06 09:34:50",117706817,"2018-04-06 09:34:49",7,"2018-04-15 02:29:25",500,485,19,"Деньги от Payment Ninja",gp,EmptyLikes,PE,topfacemobappandroid,pn.coins.40.5
+9503,63,"2018-04-06 07:52:54",117706217,"2018-04-06 07:52:52",14,"2018-04-14 10:34:16",90,62,19,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.6.1
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",1,"2018-04-06 01:06:00",9696,9405,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,FR,topfacemobappandroid,pn.sub.vip.year.90
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",4,"2018-04-11 23:10:40",110,107,19,"Деньги от Payment Ninja",fb,EmptyLikes,FR,topfacemobappandroid,pn.coins.6.1
+9553,63,"2018-04-02 17:17:09",117622599,"2018-04-02 17:17:08",2,"2018-04-04 12:07:55",516,89,67,"Деньги от PaymentWall (mobile)",gp,none,QA,topfacemobappandroid,com.topface.topface.buy.sms.likes.1
+9431,63,"2018-04-02 13:29:02",117617811,"2018-04-02 13:29:01",5,"2018-04-05 15:29:10",1436,1005,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-03 19:22:46",117650165,"2018-04-03 19:22:43",3,"2018-04-06 21:22:51",1284,898,147,"Деньги от Google Play",gp,TrialVipPopup,PK,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+597,12,"2018-04-01 12:50:04",117586565,"2018-04-01 12:50:04",1,"2018-04-01 13:38:39",234,9,19,"Деньги от PaymentWall (mobile)",st,none,US,topfacemobappandroid,com.topface.topface.buy.sms.coins.8
+9221,42,"2018-04-03 16:52:48",117647391,"2018-04-03 16:52:47",2,"2018-04-04 04:53:14",999,699,147,"Деньги от Google Play",gp,TrialVipPopup,TR,standalonetf,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",25,"2018-04-17 15:59:37",516,88,67,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.likes.1
+8786,42,"2018-03-31 21:48:49",117574090,"2018-03-31 21:48:47",5,"2018-04-08 19:43:28",100,97,19,"Деньги от Payment Ninja",fb,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9568,63,"2018-04-03 07:43:24",117639335,"2018-04-03 07:43:22",3,"2018-04-06 09:43:37",1437,1005,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-01 12:12:11",117585831,"2018-04-01 12:07:16",1,"2018-04-01 12:52:55",38,26,146,"Деньги от Google Play",st,AdToPhotoBlog,UA,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+5611,45,"2018-03-31 11:27:09",117564066,"2018-03-31 11:25:16",1,"2018-03-31 13:10:53",307,298,147,"Деньги от Payment Ninja",st,LeftMenu,RU,topfacemobappandroid,pn.sub.vip.week.3
+8870,33,"2018-04-01 00:15:13",117577046,"2018-04-01 00:15:11",6,"2018-04-03 08:10:49",999,969,147,"Деньги от Payment Ninja",st,PopularUserChatBlock,AZ,topfacemobappandroid,pn.sub.vip.month.10
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",10,"2018-04-04 17:43:57",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9531,63,"2018-04-01 13:03:55",117586807,"2018-04-01 13:03:52",2,"2018-04-01 14:04:24",55,38,146,"Деньги от Google Play",fb,AdToPhotoBlog,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9526,63,"2018-04-01 20:30:02",117597632,"2018-04-01 20:30:00",3,"2018-04-05 05:33:49",997,697,147,"Деньги от Google Play",fb,promo.key31,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9578,63,"2018-04-03 12:40:38",117643366,"2018-04-03 12:40:37",3,"2018-04-07 21:26:17",1306,914,147,"Деньги от Google Play",gp,TrialVipPopup,CO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9630,63,"2018-04-02 06:15:13",117610387,"2018-04-02 06:15:10",3,"2018-04-05 09:05:30",1242,869,147,"Деньги от Google Play",st,LeftMenu,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",3,"2018-04-11 23:10:21",327,317,67,"Деньги от Payment Ninja",fb,EmptyLikes,FR,topfacemobappandroid,pn.likes.100.3
+597,12,"2018-03-31 17:56:40",117569759,"2018-03-31 17:56:40",4,"2018-04-01 02:33:16",500,485,19,"Деньги от Ninja",st,coinsPopupFrom51-1,GH,topfacemobappandroid,coin.two
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",3,"2018-04-02 07:22:54",300,291,67,"Деньги от Payment Ninja",fb,EmptyLikes,IL,topfacemobappandroid,pn.likes.100.3
+9438,63,"2018-04-04 20:14:54",117675711,"2018-04-04 20:14:52",1,"2018-04-05 22:36:56",999,969,147,"Деньги от Payment Ninja",fb,PopularUserBlockDialog,EC,topfacemobappandroid,pn.sub.vip.month.10
+5609,45,"2018-04-02 22:46:48",117631437,"2018-04-02 22:46:47",3,"2018-04-06 22:37:21",985,689,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9706,63,"2018-04-05 04:41:02",117685342,"2018-04-05 04:41:01",3,"2018-04-05 04:51:28",91,63,19,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.6.1
+9712,63,"2018-04-04 22:45:14",117679577,"2018-04-04 22:44:51",2,"2018-04-04 23:09:53",961,672,147,"Деньги от Google Play",fb,LeftMenu,IN,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",11,"2018-04-04 13:48:29",38,26,19,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.coins.6.1
+9706,63,"2018-04-05 20:36:06",117698415,"2018-04-05 20:36:04",4,"2018-04-08 22:48:52",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117667348,"2018-04-04 13:18:56",6,"2018-04-16 11:52:33",270,189,146,"Деньги от Google Play",fb,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9453,63,"2018-03-31 00:30:12",117557279,"2018-03-31 00:30:11",4,"2018-04-11 09:06:25",91,63,146,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",34,"2018-04-05 16:20:36",100,97,19,"Деньги от Payment Ninja",gp,Gifts,UA,topfacemobappandroid,pn.coins.6.1
+8878,42,"2018-04-06 23:45:54",117686219,"2018-04-05 06:00:54",3,"2018-04-11 02:21:06",970,679,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9568,63,"2018-04-08 19:58:09",117565634,"2018-03-31 13:32:18",5,"2018-04-15 13:56:30",285,199,67,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+,,,117653959,"2018-04-03 21:56:27",1,"2018-04-03 22:07:13",510,133,68,"Деньги от PaymentWall (mobile)",st,none,LV,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9428,63,"2018-04-01 14:54:00",117588836,"2018-04-01 14:53:57",3,"2018-04-03 12:49:54",278,194,146,"Деньги от Google Play",fb,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",7,"2018-04-04 16:10:09",485,339,146,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+,,,117565953,"2018-03-31 13:57:17",1,"2018-04-10 09:15:02",999,969,147,"Деньги от Payment Ninja",fb,no_symphaties_no_vip_stub,TR,topfacemobappandroid,pn.sub.vip.month.10
+9552,63,"2018-04-01 22:44:11",117601956,"2018-04-01 22:44:09",1,"2018-04-04 19:47:32",510,124,68,"Деньги от PaymentWall (mobile)",fb,none,GR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9719,33,"2018-04-05 01:42:25",117682894,"2018-04-05 01:42:23",1,"2018-04-05 02:04:11",86,60,146,"Деньги от Google Play",st,EmptyLikes,DE,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9365,63,"2018-03-31 17:16:15",117569070,"2018-03-31 17:16:12",3,"2018-04-03 19:28:43",1425,997,147,"Деньги от Google Play",fb,TrialVipPopup,PE,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+7609,33,"2018-04-02 05:52:54",117610068,"2018-04-02 05:52:52",2,"2018-04-02 05:59:23",91,63,146,"Деньги от Google Play",st,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+,,,117615539,"2018-04-02 11:27:55",3,"2018-04-02 13:44:46",110,106,19,"Деньги от Payment Ninja",gp,Menu,LV,topfacemobappandroid,pn.coins.6.1
+9553,63,"2018-04-02 17:10:19",117622443,"2018-04-02 17:10:18",1,"2018-04-02 17:14:18",271,189,67,"Деньги от Google Play",fb,EmptyAdmirations,ES,topfacemobappandroid,com.topface.topface.likes.100.3
+,,,117654142,"2018-04-03 22:05:12",4,"2018-04-07 00:08:17",1438,1006,147,"Деньги от Google Play",gp,Admirations,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9499,63,"2018-04-01 21:00:21",117598591,"2018-04-01 21:00:18",3,"2018-04-05 23:00:12",1440,1007,147,"Деньги от Google Play",st,Dating,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9427,63,"2018-04-03 08:26:05",117639865,"2018-04-03 08:26:04",3,"2018-04-06 10:26:12",1437,1005,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+5609,45,"2018-03-31 17:05:51",117568879,"2018-03-31 17:05:46",3,"2018-04-06 11:50:09",167,116,67,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.likes.100.3
+9500,63,"2018-04-04 13:40:56",117667759,"2018-04-04 13:40:54",3,"2018-04-07 15:41:01",1438,1006,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",1,"2018-04-05 19:03:52",999,969,147,"Деньги от Payment Ninja",st,Dating,UA,topfacemobappandroid,pn.sub.vip.month.10
+9464,63,"2018-04-06 09:34:50",117706817,"2018-04-06 09:34:49",4,"2018-04-14 10:24:45",999,969,147,"Деньги от Payment Ninja",gp,AutoReplyMessage,PE,topfacemobappandroid,pn.sub.vip.month.10
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",1,"2018-04-01 08:08:12",999,969,147,"Деньги от Payment Ninja",fb,PopularUserBlockDialog,IL,topfacemobappandroid,pn.sub.vip.month.10
+9465,63,"2018-04-03 23:29:39",117656029,"2018-04-03 23:29:37",3,"2018-04-07 01:30:12",1597,1117,147,"Деньги от Google Play",fb,TrialVipPopup,ES,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117653959,"2018-04-03 21:56:27",2,"2018-04-04 11:42:45",516,133,67,"Деньги от PaymentWall (mobile)",st,none,LV,topfacemobappandroid,com.topface.topface.buy.sms.likes.1
+8786,42,"2018-04-01 20:02:11",117596764,"2018-04-01 20:02:10",22,"2018-04-02 08:13:35",1000,970,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.100.10
+8878,42,"2018-04-06 23:45:54",117686219,"2018-04-05 06:00:54",4,"2018-04-11 12:58:53",267,186,146,"Деньги от Google Play",fb,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+,,,117703347,"2018-04-06 01:41:20",1,"2018-04-08 02:13:29",789,552,147,"Деньги от Google Play",gp,Dating,GH,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+5609,45,"2018-04-04 17:03:50",117671696,"2018-04-04 17:03:49",1,"2018-04-05 01:29:27",510,177,68,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8908,42,"2018-04-03 19:57:12",117651079,"2018-04-03 19:57:11",4,"2018-04-07 22:04:23",1399,979,147,"Деньги от Google Play",gp,TrialVipPopup,US,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-01 15:23:08",117589415,"2018-04-01 15:23:07",1,"2018-04-01 15:26:48",912,638,146,"Деньги от Google Play",gp,EmptyLikes,NL,topfacemobappandroid,com.topface.topface.sub.coins.month.100.10
+9720,33,"2018-04-05 01:43:18",117682911,"2018-04-05 01:43:16",3,"2018-04-10 00:14:10",2462,1723,147,"Деньги от Google Play",fb,promo.key31,ES,topfacemobappandroid,com.topface.topface.sub.vip.month.3.2699.v1
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",16,"2018-04-05 12:56:25",38,26,19,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.coins.6.1
+597,12,"2018-04-01 02:49:22",117579107,"2018-04-01 02:49:22",14,"2018-04-02 22:26:03",75,52,19,"Деньги от Google Play",st,EmptyLikes,BR,topfacemobappandroid,com.topface.topface.coins.6.1
+9445,63,"2018-04-03 01:21:16",117634645,"2018-04-03 01:21:14",5,"2018-04-07 03:21:32",1901,1330,147,"Деньги от Google Play",fb,TrialVipPopup,GB,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+7651,33,"2018-04-03 23:48:26",117656406,"2018-04-03 23:48:25",1,"2018-04-03 23:50:58",2699,2618,147,"Деньги от Payment Ninja",gp,Dating,QA,topfacemobappandroid,pn.sub.vip.month.3.27
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",2,"2018-04-11 23:10:04",327,317,67,"Деньги от Payment Ninja",fb,EmptyLikes,FR,topfacemobappandroid,pn.likes.100.3
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",45,"2018-04-18 09:59:43",2500,2425,19,"Деньги от Payment Ninja",gp,Menu,UA,topfacemobappandroid,pn.coins.300.25
+8870,33,"2018-04-01 00:15:13",117577046,"2018-04-01 00:15:11",1,"2018-04-01 00:35:36",300,291,67,"Деньги от Payment Ninja",st,EmptyLikes,AZ,topfacemobappandroid,pn.likes.100.3
+9379,63,"2018-04-02 16:06:30",117621016,"2018-04-02 16:06:29",5,"2018-04-13 10:08:12",171,119,146,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9388,63,"2018-04-02 00:56:27",117605391,"2018-04-02 00:56:25",3,"2018-04-05 02:56:32",1455,1018,147,"Деньги от Google Play",fb,TrialVipPopup,AU,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9503,63,"2018-04-06 07:52:54",117706217,"2018-04-06 07:52:52",9,"2018-04-09 09:53:10",1439,1007,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9457,63,"2018-04-02 08:38:09",117612660,"2018-04-02 08:38:06",3,"2018-04-05 10:51:33",1242,869,147,"Деньги от Google Play",fb,ownProfile,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117641405,"2018-04-03 10:16:33",1,"2018-04-13 10:51:28",552,386,147,"Деньги от Google Play",gp,PopularUserBlockDialog,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9630,63,"2018-04-03 19:40:22",117650600,"2018-04-03 19:40:20",1,"2018-04-03 19:48:36",510,206,68,"Деньги от PaymentWall (mobile)",fb,none,SG,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9618,33,"2018-04-04 21:02:28",117676939,"2018-04-04 21:02:27",1,"2018-04-04 21:53:17",910,637,147,"Деньги от Google Play",fb,SendMessage,DE,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+,,,117656703,"2018-04-04 00:03:25",2,"2018-04-04 01:37:09",516,91,67,"Деньги от PaymentWall (mobile)",fb,none,PT,topfacemobappandroid,com.topface.topface.buy.sms.likes.1
+9503,63,"2018-04-06 07:52:54",117706217,"2018-04-06 07:52:52",4,"2018-04-08 19:23:34",91,63,146,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",5,"2018-04-03 23:47:22",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9602,63,"2018-04-01 09:27:35",117583361,"2018-04-01 09:27:33",4,"2018-04-03 12:02:40",2500,2425,19,"Деньги от Payment Ninja",st,EmptyLikes,IQ,topfacemobappandroid,pn.coins.300.25
+9492,63,"2018-04-02 10:47:06",117614828,"2018-04-02 10:46:43",3,"2018-04-05 12:46:54",1413,989,147,"Деньги от Google Play",fb,TrialVipPopup,CH,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9395,63,"2018-04-02 10:18:45",117614331,"2018-04-02 10:18:42",3,"2018-04-05 12:51:51",1436,1005,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9697,63,"2018-04-03 19:34:23",117650441,"2018-04-03 19:34:22",1,"2018-04-03 20:14:11",999,969,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,BR,topfacemobappandroid,pn.sub.vip.month.10
+,,,117677111,"2018-04-04 21:09:16",1,"2018-04-09 12:01:54",909,636,147,"Деньги от Google Play",vk,PopularUserBlockDialog,BY,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9485,63,"2018-04-01 20:43:03",117598013,"2018-04-01 20:42:48",1,"2018-04-01 20:46:01",912,638,147,"Деньги от Google Play",fb,SendMessage,US,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-04 21:33:33",117677670,"2018-04-04 21:31:08",1,"2018-04-05 07:30:26",999,969,147,"Деньги от Payment Ninja",st,LeftMenu,UA,topfacemobappandroid,pn.sub.vip.month.10
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",13,"2018-04-01 15:01:38",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9553,63,"2018-04-02 17:10:19",117622443,"2018-04-02 17:10:18",2,"2018-04-02 17:27:47",86,60,146,"Деньги от Google Play",fb,EmptyAdmirations,ES,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9531,63,"2018-04-01 13:03:55",117586807,"2018-04-01 13:03:52",1,"2018-04-01 13:44:16",574,401,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",14,"2018-04-08 11:55:47",300,291,67,"Деньги от Payment Ninja",st,Menu,UA,topfacemobappandroid,pn.likes.100.3
+9499,63,"2018-03-31 19:15:34",117571062,"2018-03-31 19:13:33",3,"2018-04-02 09:10:16",486,340,146,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9428,63,"2018-04-01 14:54:00",117588836,"2018-04-01 14:53:57",1,"2018-04-01 16:04:21",574,401,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9500,63,"2018-04-02 12:12:04",117616367,"2018-04-02 12:12:01",1,"2018-04-07 10:07:02",287,200,67,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",15,"2018-04-09 01:48:23",1000,970,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.100.10
+9438,63,"2018-04-05 04:29:42",117685198,"2018-04-05 04:29:38",6,"2018-04-06 02:35:51",300,291,67,"Деньги от Payment Ninja",gp,EmptyLikes,PE,topfacemobappandroid,pn.likes.100.3
+6169,45,"2018-03-31 15:58:29",117567804,"2018-03-31 15:58:21",3,"2018-04-14 13:35:40",271,189,67,"Деньги от Google Play",st,EmptyLikes,BY,topfacemobappandroid,com.topface.topface.likes.100.3
+9522,63,"2018-04-03 10:55:47",117641948,"2018-04-03 10:55:46",3,"2018-04-12 10:50:09",284,198,67,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",29,"2018-04-05 14:16:29",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+,,,117683359,"2018-04-05 02:10:50",3,"2018-04-08 04:10:58",1932,1352,147,"Деньги от Google Play",fb,TrialVipPopup,ZA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9570,63,"2018-04-01 01:10:41",117577911,"2018-04-01 01:10:40",4,"2018-04-04 03:10:48",1938,1356,147,"Деньги от Google Play",fb,TrialVipPopup,PL,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9615,33,"2018-04-03 13:08:22",117643787,"2018-04-03 13:08:20",3,"2018-04-06 15:08:38",1923,1346,147,"Деньги от Google Play",fb,TrialVipPopup,BE,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9569,63,"2018-04-03 04:13:04",117636774,"2018-04-03 04:13:02",3,"2018-04-06 06:41:51",1314,919,147,"Деньги от Google Play",fb,TrialVipPopup,CO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9580,63,"2018-04-02 01:58:44",117606546,"2018-04-02 01:58:40",1,"2018-04-02 02:18:51",999,969,147,"Деньги от Payment Ninja",gp,Dating,CR,topfacemobappandroid,pn.sub.vip.month.10
+,,,117590684,"2018-04-01 16:21:26",5,"2018-04-04 12:24:24",86,60,19,"Деньги от Google Play",gp,EmptyLikes,ES,topfacemobappandroid,com.topface.topface.coins.6.1
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",13,"2018-04-04 17:48:00",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9385,63,"2018-04-03 04:23:56",117636893,"2018-04-03 04:23:55",3,"2018-04-06 06:24:09",1598,1118,147,"Деньги от Google Play",gp,TrialVipPopup,MK,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117694331,"2018-04-05 16:32:24",4,"2018-04-06 21:47:43",273,191,146,"Деньги от Google Play",st,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9728,63,"2018-04-05 12:13:59",117690620,"2018-04-05 12:13:57",2,"2018-04-05 18:08:20",87,60,146,"Деньги от Google Play",fb,Menu,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9523,63,"2018-04-02 03:19:50",117607789,"2018-04-02 03:19:49",5,"2018-04-05 05:29:55",997,697,147,"Деньги от Google Play",gp,AutoReplyMessage,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117599829,"2018-04-01 21:38:30",3,"2018-04-04 20:18:33",339,237,146,"Деньги от Google Play",st,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.sub.coins.month.100.10
+9602,63,"2018-04-01 08:58:47",117582983,"2018-04-01 08:58:45",9,"2018-04-03 10:24:06",100,97,19,"Деньги от Payment Ninja",fb,autorefill,LK,topfacemobappandroid,pn.coins.6.1
+9522,63,"2018-04-04 03:47:57",117659573,"2018-04-04 03:47:51",5,"2018-04-07 05:48:07",1438,1006,147,"Деньги от Google Play",fb,TrialVipPopup,KZ,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117702168,"2018-04-05 23:59:13",1,"2018-04-08 21:31:14",910,637,147,"Деньги от Google Play",gp,Dating,IT,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",25,"2018-04-15 11:52:33",100,97,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9395,63,"2018-04-02 00:02:07",117604180,"2018-04-02 00:02:05",4,"2018-04-05 02:03:22",1399,979,147,"Деньги от Google Play",gp,Dating,US,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9552,63,"2018-04-04 08:00:17",117662867,"2018-04-04 08:00:16",1,"2018-04-06 04:43:53",510,167,68,"Деньги от PaymentWall (mobile)",gp,none,MY,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+,,,117667599,"2018-04-04 13:32:10",3,"2018-04-07 15:33:09",851,595,147,"Деньги от Google Play",st,TrialVipPopup,KZ,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-01 11:30:06",117585174,"2018-04-01 11:29:50",7,"2018-04-04 14:43:15",1965,1375,147,"Деньги от Google Play",gp,TrialVipPopup,LV,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9552,63,"2018-04-05 22:20:40",117700470,"2018-04-05 22:20:36",3,"2018-04-09 00:21:19",1438,1006,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+597,12,"2018-04-01 12:50:04",117586565,"2018-04-01 12:50:04",17,"2018-04-13 20:40:58",234,9,19,"Деньги от PaymentWall (mobile)",st,none,US,topfacemobappandroid,com.topface.topface.buy.sms.coins.8
+9635,63,"2018-04-01 06:43:41",117581467,"2018-04-01 06:43:39",3,"2018-04-04 08:43:45",1364,954,147,"Деньги от Google Play",fb,TrialVipPopup,BR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9499,63,"2018-03-31 19:15:34",117571062,"2018-03-31 19:13:33",9,"2018-04-06 17:10:48",963,674,147,"Деньги от Google Play",gp,PopularUserBlockDialog,IN,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+7927,42,"2018-04-01 14:45:59",117588681,"2018-04-01 14:45:58",1,"2018-04-01 15:07:57",574,401,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 20:02:11",117596764,"2018-04-01 20:02:10",5,"2018-04-01 20:24:38",999,969,147,"Деньги от Payment Ninja",gp,PopularUserChatBlock,UA,topfacemobappandroid,pn.sub.vip.month.10
+,,,117707474,"2018-04-06 11:14:00",4,"2018-04-10 13:16:29",979,685,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-02 18:16:49",117624098,"2018-04-02 18:16:49",3,"2018-04-05 20:16:56",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,GB,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-06 15:49:14",117711388,"2018-04-06 15:49:02",2,"2018-04-06 16:10:55",102,71,77,"Деньги от Google Play",fb,BadaboomFilterScreen,UA,topfacemobappandroid,com.topface.topface.bombmsg.1
+6169,45,"2018-03-31 23:30:45",117576213,"2018-03-31 23:30:43",4,"2018-04-05 01:33:51",1436,1005,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9522,63,"2018-04-03 08:37:08",117640001,"2018-04-03 08:37:06",3,"2018-04-06 10:39:12",1437,1005,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9630,63,"2018-04-01 21:18:26",117599175,"2018-04-01 21:18:24",5,"2018-04-03 18:19:54",999,969,147,"Деньги от Payment Ninja",gp,AutoReplyMessage,MY,topfacemobappandroid,pn.sub.vip.month.10
+,,,117615539,"2018-04-02 11:27:55",2,"2018-04-02 13:43:13",325,316,67,"Деньги от Payment Ninja",gp,Fans,LV,topfacemobappandroid,pn.likes.100.3
+9458,63,"2018-04-02 13:17:47",117617574,"2018-04-02 13:17:46",3,"2018-04-07 10:20:20",1601,1120,147,"Деньги от Google Play",gp,LeftMenu,BY,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-02 12:56:49",117617084,"2018-04-02 12:53:21",3,"2018-04-03 13:49:33",335,234,146,"Деньги от Google Play",st,Menu,UA,topfacemobappandroid,com.topface.topface.sub.coins.month.100.10
+9567,63,"2018-03-31 21:24:22",117573604,"2018-03-31 21:24:21",1,"2018-04-04 02:53:28",714,499,147,"Деньги от Google Play",fb,promo.key31,MX,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",23,"2018-04-05 09:46:41",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9464,63,"2018-04-06 09:34:50",117706817,"2018-04-06 09:34:49",5,"2018-04-15 02:29:18",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,PE,topfacemobappandroid,pn.coins.6.1
+5609,45,"2018-04-04 15:20:07",117669548,"2018-04-04 15:20:05",5,"2018-04-06 06:48:22",53,37,19,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.coins.6.1
+9526,63,"2018-04-01 15:58:31",117590166,"2018-04-01 15:58:30",5,"2018-04-04 11:35:06",277,193,146,"Деньги от Google Play",fb,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9438,63,"2018-04-04 20:14:54",117675711,"2018-04-04 20:14:52",2,"2018-04-08 02:32:04",300,291,67,"Деньги от Payment Ninja",fb,EmptyLikes,EC,topfacemobappandroid,pn.likes.100.3
+,,,117616274,"2018-04-02 12:06:57",1,"2018-04-10 19:57:19",999,969,147,"Деньги от Payment Ninja",fb,promo.key31,AU,topfacemobappandroid,pn.sub.vip.month.10
+9500,63,"2018-04-02 19:24:05",117625788,"2018-04-02 19:24:03",3,"2018-04-05 21:24:20",1440,1007,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8774,42,"2018-04-03 20:11:23",117651413,"2018-04-03 20:11:22",3,"2018-04-18 03:41:48",1422,995,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9697,63,"2018-03-31 08:03:59",117561963,"2018-03-31 08:03:54",1,"2018-03-31 08:19:47",510,510,68,"Деньги от PaymentWall (mobile)",fb,none,PG,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9464,63,"2018-04-01 02:27:29",117578861,"2018-04-01 02:27:27",1,"2018-04-03 02:55:16",999,969,147,"Деньги от Payment Ninja",fb,UserProfileFragment,CO,topfacemobappandroid,pn.sub.vip.month.10
+9526,63,"2018-04-04 07:40:52",117662599,"2018-04-04 07:40:51",1,"2018-04-04 07:43:56",568,397,147,"Деньги от Google Play",fb,AutoReplyMessage,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9719,33,"2018-04-04 12:08:24",117666239,"2018-04-04 12:08:23",1,"2018-04-04 12:27:51",270,189,67,"Деньги от Google Play",gp,Menu,DE,topfacemobappandroid,com.topface.topface.likes.100.3
+,,,117696570,"2018-04-05 18:53:20",1,"2018-04-05 19:12:44",234,9,19,"Деньги от PaymentWall (mobile)",st,none,UA,topfacemobappios,com.topface.topface.buy.sms.coins.8
+9630,63,"2018-03-31 10:11:50",117563229,"2018-03-31 10:11:48",3,"2018-04-03 12:12:05",1264,884,147,"Деньги от Google Play",fb,TrialVipPopup,PH,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9707,63,"2018-04-04 16:21:00",117670771,"2018-04-04 16:20:58",1,"2018-04-04 16:48:05",999,969,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,BR,topfacemobappandroid,pn.sub.vip.month.10
+9526,63,"2018-03-31 16:26:47",117568247,"2018-03-31 16:26:46",8,"2018-04-10 19:29:40",553,387,147,"Деньги от Google Play",fb,PopularUserBlockDialog,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9526,63,"2018-04-01 22:22:13",117601249,"2018-04-01 22:22:10",2,"2018-04-08 08:16:42",167,116,67,"Деньги от Google Play",fb,none,TR,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",16,"2018-04-05 09:45:39",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9500,63,"2018-04-03 21:26:08",117653227,"2018-04-03 21:26:06",2,"2018-04-03 22:49:14",961,672,147,"Деньги от Google Play",st,SendMessage,IN,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+,,,117582278,"2018-04-01 08:02:54",4,"2018-04-14 19:57:47",506,354,146,"Деньги от Google Play",gp,EmptyLikes,US,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+597,12,"2018-04-01 02:49:22",117579107,"2018-04-01 02:49:22",6,"2018-04-02 01:52:54",710,496,147,"Деньги от Google Play",st,LeftMenu,BR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+5609,45,"2018-04-04 17:03:50",117671696,"2018-04-04 17:03:49",13,"2018-04-10 22:00:58",516,173,19,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+9552,63,"2018-04-05 10:06:41",117689071,"2018-04-05 10:06:38",4,"2018-04-08 20:44:47",273,191,67,"Деньги от Google Play",fb,EmptyLikes,LK,topfacemobappandroid,com.topface.topface.likes.100.3
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",11,"2018-04-10 23:38:50",100,97,19,"Деньги от Payment Ninja",fb,autorefill,CM,topfacemobappandroid,pn.coins.6.1
+,,,117694331,"2018-04-05 16:32:24",1,"2018-04-05 16:36:04",562,393,147,"Деньги от Google Play",st,Admirations,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9582,63,"2018-04-05 10:02:01",117689005,"2018-04-05 10:02:00",3,"2018-04-08 12:06:49",985,689,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-01 11:30:06",117585174,"2018-04-01 11:29:50",9,"2018-04-06 12:10:47",500,485,19,"Деньги от Payment Ninja",gp,autorefill,LV,topfacemobappandroid,pn.coins.40.5
+,,,117654602,"2018-04-03 22:24:42",2,"2018-04-06 01:05:32",560,392,147,"Деньги от Google Play",gp,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+597,12,"2018-04-01 12:50:04",117586565,"2018-04-01 12:50:04",15,"2018-04-13 20:38:25",234,9,19,"Деньги от PaymentWall (mobile)",st,none,US,topfacemobappandroid,com.topface.topface.buy.sms.coins.8
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",12,"2018-04-03 21:18:44",500,485,19,"Деньги от Payment Ninja",fb,autorefill,IL,topfacemobappandroid,pn.coins.40.5
+597,12,"2018-04-01 12:50:04",117586565,"2018-04-01 12:50:04",10,"2018-04-12 07:58:37",234,9,19,"Деньги от PaymentWall (mobile)",st,none,US,topfacemobappandroid,com.topface.topface.buy.sms.coins.8
+9580,63,"2018-04-01 17:48:16",117592889,"2018-04-01 17:48:14",1,"2018-04-01 17:56:29",999,969,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,US,topfacemobappandroid,pn.sub.vip.month.10
+,,,117667348,"2018-04-04 13:18:56",1,"2018-04-04 13:23:06",565,395,147,"Деньги от Google Play",fb,Dating,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",2,"2018-04-07 00:55:58",100,97,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+8786,42,"2018-04-04 21:33:33",117677670,"2018-04-04 21:31:08",2,"2018-04-06 09:33:06",300,291,67,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.likes.100.3
+5609,45,"2018-03-31 17:05:51",117568879,"2018-03-31 17:05:46",1,"2018-04-05 01:24:35",567,396,147,"Деньги от Google Play",gp,Dating,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9457,63,"2018-04-03 06:38:17",117638539,"2018-04-03 06:38:15",4,"2018-04-06 08:38:32",1234,863,147,"Деньги от Google Play",gp,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117582278,"2018-04-01 08:02:54",3,"2018-04-10 15:35:24",300,210,67,"Деньги от Google Play",gp,EmptyLikes,US,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",9,"2018-04-04 13:48:05",38,26,19,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.coins.6.1
+,,,117600115,"2018-04-01 21:47:22",4,"2018-04-04 02:19:14",223,156,67,"Деньги от Google Play",gp,EmptyLikes,CO,topfacemobappandroid,com.topface.topface.likes.100.3
+9485,63,"2018-04-02 15:48:43",117620641,"2018-04-02 15:48:41",1,"2018-04-04 19:20:28",2922,2834,147,"Деньги от Payment Ninja",gp,promo.key31,US,topfacemobappandroid,pn.sub.vip.month.3.27
+9552,63,"2018-04-06 13:50:09",117709453,"2018-04-06 13:50:08",3,"2018-04-09 15:51:54",1587,1110,147,"Деньги от Google Play",fb,AutoReplyMessage,IL,standalonetf,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9552,63,"2018-04-02 16:45:51",117621865,"2018-04-02 16:45:49",1,"2018-04-02 16:48:44",8999,8729,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,US,topfacemobappandroid,pn.sub.vip.year.90
+,,,117648595,"2018-04-03 18:04:19",1,"2018-04-03 18:07:12",510,177,68,"Деньги от PaymentWall (mobile)",st,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8786,42,"2018-04-01 20:02:11",117596764,"2018-04-01 20:02:10",54,"2018-04-10 12:45:53",1000,970,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.100.10
+9389,63,"2018-04-02 08:53:47",117612931,"2018-04-02 08:53:46",3,"2018-04-05 08:23:42",286,200,67,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+9720,33,"2018-04-03 11:48:22",117642630,"2018-04-03 11:48:21",1,"2018-04-03 12:11:13",9751,9458,147,"Деньги от Payment Ninja",fb,LeftMenu,ES,topfacemobappandroid,pn.sub.vip.year.90
+,,,117615539,"2018-04-02 11:27:55",1,"2018-04-02 13:41:43",1084,1051,147,"Деньги от Payment Ninja",gp,Visitors,LV,topfacemobappandroid,pn.sub.vip.month.10
+8870,33,"2018-04-01 00:15:13",117577046,"2018-04-01 00:15:11",3,"2018-04-02 23:40:31",500,485,19,"Деньги от Payment Ninja",st,Gifts,AZ,topfacemobappandroid,pn.coins.40.5
+9485,63,"2018-04-04 11:50:52",117665976,"2018-04-04 11:50:51",3,"2018-04-08 11:41:47",1589,1112,147,"Деньги от Google Play",fb,promo.key31,GB,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-03-31 18:52:00",117570684,"2018-03-31 18:51:56",4,"2018-04-03 20:52:42",1586,1110,147,"Деньги от Google Play",gp,TrialVipPopup,GB,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117691423,"2018-04-05 13:14:14",1,"2018-04-06 11:24:10",17,8,57,"Деньги от Одноклассников",ok,superPopupFromBlockExpressMessages,RU,topface,premium.1day_PUincrease
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",3,"2018-04-03 12:10:41",38,26,146,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",9,"2018-04-07 00:56:56",100,97,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9464,63,"2018-04-04 05:36:43",117660900,"2018-04-04 05:36:41",3,"2018-04-07 07:38:17",1593,1115,147,"Деньги от Google Play",st,TrialVipPopup,US,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-01 11:30:06",117585174,"2018-04-01 11:29:50",3,"2018-04-03 01:02:37",540,524,19,"Деньги от Payment Ninja",gp,EmptyLikes,LV,topfacemobappandroid,pn.coins.40.5
+9411,63,"2018-04-06 14:46:07",117710339,"2018-04-06 14:46:05",3,"2018-04-09 16:46:17",1457,1019,147,"Деньги от Google Play",fb,TrialVipPopup,SA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9741,63,"2018-04-05 23:22:16",117701629,"2018-04-05 23:22:14",2,"2018-04-07 16:28:24",348,243,146,"Деньги от Google Play",fb,EmptyLikes,BR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9690,63,"2018-03-31 22:53:49",117575483,"2018-03-31 22:53:48",1,"2018-03-31 23:02:58",4999,3499,147,"Деньги от Google Play",fb,ownProfile,US,topfacemobappandroid,com.topface.topface.sub.vip.month.6.4999.v1
+,,,117639115,"2018-04-03 07:27:07",1,"2018-04-03 07:50:10",1000,700,147,"Деньги от Google Play",st,ownProfile,US,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9566,63,"2018-04-04 02:15:00",117658577,"2018-04-04 02:14:58",1,"2018-04-18 04:44:33",510,105,68,"Деньги от PaymentWall (mobile)",gp,none,CY,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9741,63,"2018-04-05 23:22:16",117701629,"2018-04-05 23:22:14",1,"2018-04-07 16:27:59",209,146,67,"Деньги от Google Play",fb,EmptyLikes,BR,topfacemobappandroid,com.topface.topface.likes.100.3
+9461,63,"2018-04-04 15:44:36",117670017,"2018-04-04 15:44:35",3,"2018-04-05 10:42:36",486,340,146,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+8786,42,"2018-03-31 21:48:49",117574090,"2018-03-31 21:48:47",2,"2018-03-31 22:32:19",100,97,19,"Деньги от Payment Ninja",fb,AdToPhotoBlog,UA,topfacemobappandroid,pn.coins.6.1
+9568,63,"2018-04-04 15:32:16",117669773,"2018-04-04 15:32:14",3,"2018-04-07 17:32:30",1438,1006,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9526,63,"2018-04-02 12:50:55",117617030,"2018-04-02 12:50:54",1,"2018-04-02 13:19:07",279,195,146,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9526,63,"2018-04-02 12:50:55",117617030,"2018-04-02 12:50:54",4,"2018-04-02 13:26:22",572,400,147,"Деньги от Google Play",gp,AutoReplyMessage,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",20,"2018-04-01 16:07:48",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9728,63,"2018-04-05 12:13:59",117690620,"2018-04-05 12:13:57",5,"2018-04-06 04:55:09",87,60,19,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.6.1
+9633,63,"2018-04-04 11:39:07",117665812,"2018-04-04 11:39:05",3,"2018-04-08 12:01:05",630,441,147,"Деньги от Google Play",fb,TrialVipPopup,EG,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117634530,"2018-04-03 01:13:16",3,"2018-04-06 03:20:00",1206,844,147,"Деньги от Google Play",fb,LeftMenu,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9717,33,"2018-04-05 00:50:33",117682121,"2018-04-05 00:50:30",3,"2018-04-08 02:51:47",1457,1019,147,"Деньги от Google Play",st,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9531,63,"2018-04-03 01:08:01",117634458,"2018-04-03 01:08:00",3,"2018-04-15 23:10:40",510,171,68,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9485,63,"2018-04-03 00:07:39",117633400,"2018-04-03 00:07:38",1,"2018-04-05 17:02:13",999,969,147,"Деньги от Payment Ninja",fb,AutoReplyMessage,DK,topfacemobappandroid,pn.sub.vip.month.10
+9431,63,"2018-04-01 00:50:27",117577628,"2018-04-01 00:50:26",5,"2018-04-04 02:51:05",1913,1339,147,"Деньги от Google Play",gp,TrialVipPopup,AT,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8870,33,"2018-04-01 00:15:13",117577046,"2018-04-01 00:15:11",11,"2018-04-14 18:13:42",500,485,19,"Деньги от Payment Ninja",st,EmptyLikes,AZ,topfacemobappandroid,pn.coins.40.5
+,,,117681392,"2018-04-05 00:09:01",4,"2018-04-09 02:10:45",1965,1375,147,"Деньги от Google Play",fb,LeftMenu,KR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-01 20:02:11",117596764,"2018-04-01 20:02:10",1,"2018-04-01 20:20:22",1000,970,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.100.10
+8786,42,"2018-04-02 18:12:36",117623982,"2018-04-02 18:12:35",5,"2018-04-03 12:11:03",38,26,19,"Деньги от Google Play",gp,EmptyLikes,UA,topfacemobappandroid,com.topface.topface.coins.6.1
+,,,117690589,"2018-04-05 12:12:08",3,"2018-04-08 23:12:45",1917,1341,147,"Деньги от Google Play",st,TrialVipPopup,FR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9457,63,"2018-04-06 00:02:47",117702218,"2018-04-06 00:02:19",1,"2018-04-06 00:22:29",2699,2618,147,"Деньги от Payment Ninja",st,Dating,MX,topfacemobappandroid,pn.sub.vip.month.3.27
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",21,"2018-04-15 14:53:28",100,97,19,"Деньги от Payment Ninja",fb,EmptyLikes,CM,topfacemobappandroid,pn.coins.6.1
+9424,63,"2018-04-03 22:23:53",117654582,"2018-04-03 22:23:50",1,"2018-04-03 23:00:29",169,118,67,"Деньги от Google Play",st,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",40,"2018-04-06 17:23:21",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+,,,117651190,"2018-04-03 20:01:43",3,"2018-04-06 22:01:51",1914,1339,147,"Деньги от Google Play",gp,TrialVipPopup,AT,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9567,63,"2018-03-31 21:24:22",117573604,"2018-03-31 21:24:21",3,"2018-04-11 04:09:07",368,257,146,"Деньги от Google Play",fb,EmptyLikes,MX,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",24,"2018-04-15 14:54:05",100,97,19,"Деньги от Payment Ninja",fb,autorefill,CM,topfacemobappandroid,pn.coins.6.1
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",5,"2018-04-02 07:23:27",500,485,19,"Деньги от Payment Ninja",fb,EmptyLikes,IL,topfacemobappandroid,pn.coins.40.5
+9618,33,"2018-04-04 21:02:28",117676939,"2018-04-04 21:02:27",4,"2018-04-06 01:31:17",453,317,146,"Деньги от Google Play",fb,EmptyLikes,DE,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9569,63,"2018-04-05 05:30:40",117685889,"2018-04-05 05:30:38",3,"2018-04-08 07:30:54",1306,914,147,"Деньги от Google Play",fb,TrialVipPopup,CO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",6,"2018-04-01 14:05:58",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9630,63,"2018-04-02 06:15:13",117610387,"2018-04-02 06:15:10",4,"2018-04-15 05:23:19",216,151,67,"Деньги от Google Play",st,EmptyLikes,MX,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-03 15:08:11",117645672,"2018-04-03 15:08:09",1,"2018-04-03 22:57:08",387,270,147,"Деньги от Google Play",vk,LeftMenu,UA,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",3,"2018-04-02 22:38:37",100,97,19,"Деньги от Payment Ninja",gp,Gifts,UA,topfacemobappandroid,pn.coins.6.1
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",1,"2018-04-02 22:20:59",2699,2618,147,"Деньги от Payment Ninja",gp,Dating,UA,topfacemobappandroid,pn.sub.vip.month.3.27
+5609,45,"2018-03-31 17:05:51",117568879,"2018-03-31 17:05:46",4,"2018-04-14 09:18:36",165,115,67,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.likes.100.3
+9503,63,"2018-04-05 15:34:56",117693442,"2018-04-05 15:34:54",3,"2018-04-08 17:37:29",1594,1115,147,"Деньги от Google Play",fb,Dating,BS,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9602,63,"2018-04-01 08:58:47",117582983,"2018-04-01 08:58:45",2,"2018-04-03 10:22:09",100,97,19,"Деньги от Payment Ninja",fb,EmptyAdmirations,LK,topfacemobappandroid,pn.coins.6.1
+5609,45,"2018-04-04 17:03:50",117671696,"2018-04-04 17:03:49",8,"2018-04-06 13:51:48",390,130,19,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.coins.22
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",18,"2018-04-12 07:54:02",100,97,19,"Деньги от Payment Ninja",fb,autorefill,CM,topfacemobappandroid,pn.coins.6.1
+9552,63,"2018-04-02 16:45:51",117621865,"2018-04-02 16:45:49",3,"2018-04-07 19:16:08",300,291,67,"Деньги от Payment Ninja",fb,EmptyLikes,US,topfacemobappandroid,pn.likes.100.3
+9618,33,"2018-04-04 21:02:28",117676939,"2018-04-04 21:02:27",9,"2018-04-11 11:12:46",272,190,67,"Деньги от Google Play",fb,EmptyLikes,DE,topfacemobappandroid,com.topface.topface.likes.100.3
+,,,117600115,"2018-04-01 21:47:22",5,"2018-04-06 07:52:42",1314,919,147,"Деньги от Google Play",gp,LeftMenu,CO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-02 13:33:35",117617921,"2018-04-02 13:33:34",1,"2018-04-02 13:41:46",912,638,147,"Деньги от Google Play",gp,LeftMenu,DE,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",28,"2018-04-15 11:52:47",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+,,,117701988,"2018-04-05 23:45:36",1,"2018-04-05 23:54:10",561,392,147,"Деньги от Google Play",st,Dating,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+6169,45,"2018-03-31 15:58:29",117567804,"2018-03-31 15:58:21",1,"2018-03-31 16:04:18",912,638,147,"Деньги от Google Play",st,AutoReplyMessage,BY,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 20:02:11",117596764,"2018-04-01 20:02:10",39,"2018-04-05 02:11:45",1000,970,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.100.10
+9630,63,"2018-04-03 13:36:26",117644192,"2018-04-03 13:36:25",2,"2018-04-03 13:55:11",1000,700,147,"Деньги от Google Play",fb,AutoReplyMessage,PH,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9485,63,"2018-04-01 15:23:08",117589415,"2018-04-01 15:23:07",4,"2018-04-01 15:31:58",912,638,147,"Деньги от Google Play",gp,AutoReplyMessage,NL,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9379,63,"2018-04-02 20:44:38",117627991,"2018-04-02 20:44:37",3,"2018-04-05 22:44:55",1601,1120,147,"Деньги от Google Play",fb,TrialVipPopup,AM,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117697291,"2018-04-05 19:36:48",4,"2018-04-10 15:46:47",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,PK,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9718,33,"2018-04-03 12:01:22",117642803,"2018-04-03 12:01:20",7,"2018-04-03 13:25:45",325,315,67,"Деньги от Payment Ninja",gp,Fans,PT,topfacemobappandroid,pn.likes.100.3
+9718,33,"2018-04-04 01:28:57",117658007,"2018-04-04 01:28:56",1,"2018-04-04 01:35:40",510,134,68,"Деньги от PaymentWall (mobile)",fb,none,PT,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9428,63,"2018-04-03 17:39:12",117648160,"2018-04-03 17:39:11",3,"2018-04-10 05:25:01",557,389,147,"Деньги от Google Play",fb,PopularUserBlockDialog,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",27,"2018-04-02 06:29:42",1000,970,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.100.10
+9733,63,"2018-04-05 22:42:46",117700904,"2018-04-05 22:42:45",3,"2018-04-09 00:42:56",1455,1018,147,"Деньги от Google Play",fb,TrialVipPopup,BO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9404,63,"2018-04-04 19:32:35",117674736,"2018-04-04 19:32:33",1,"2018-04-04 19:49:15",999,969,147,"Деньги от Payment Ninja",gp,UserProfileFragment,EC,topfacemobappandroid,pn.sub.vip.month.10
+,,,117667078,"2018-04-04 13:02:33",4,"2018-04-07 15:02:50",1407,984,147,"Деньги от Google Play",gp,TrialVipPopup,CA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9464,63,"2018-03-31 00:37:10",117557395,"2018-03-31 00:37:09",5,"2018-04-03 02:53:36",1601,1120,147,"Деньги от Google Play",gp,TrialVipPopup,NI,standalonetf,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9630,63,"2018-04-03 23:44:55",117656335,"2018-04-03 23:44:54",3,"2018-04-07 01:53:03",1416,991,147,"Деньги от Google Play",fb,AutoReplyMessage,MY,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9485,63,"2018-04-01 22:15:30",117601019,"2018-04-01 22:15:29",1,"2018-04-01 23:20:10",2930,2842,147,"Деньги от Payment Ninja",fb,LeftMenu,CY,topfacemobappandroid,pn.sub.vip.month.3.27
+,,,117691423,"2018-04-05 13:14:14",7,"2018-04-09 08:14:17",52,26,19,"Деньги от Одноклассников",ok,sympathy_access,RU,topface,coin.one
+,,,117607821,"2018-04-02 03:21:51",4,"2018-04-05 05:21:59",1601,1120,147,"Деньги от Google Play",fb,TrialVipPopup,AR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9553,63,"2018-03-31 23:21:35",117576064,"2018-03-31 23:21:34",2,"2018-03-31 23:48:29",510,49,68,"Деньги от PaymentWall (mobile)",gp,none,RO,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9424,63,"2018-04-06 07:39:15",117706135,"2018-04-06 07:39:14",3,"2018-04-09 09:39:27",987,690,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9379,63,"2018-04-01 19:45:17",117596247,"2018-04-01 19:45:15",3,"2018-04-04 22:16:20",1206,844,147,"Деньги от Google Play",fb,TrialVipPopup,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9428,63,"2018-04-05 19:23:42",117697072,"2018-04-05 19:23:41",1,"2018-04-05 19:29:46",562,393,147,"Деньги от Google Play",gp,AutoReplyMessage,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9553,63,"2018-04-02 17:17:09",117622599,"2018-04-02 17:17:08",1,"2018-04-03 19:43:52",510,89,68,"Деньги от PaymentWall (mobile)",gp,none,QA,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9697,63,"2018-04-04 07:04:56",117662119,"2018-04-04 07:04:54",3,"2018-04-07 09:05:06",1352,946,147,"Деньги от Google Play",gp,TrialVipPopup,BR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",15,"2018-04-08 04:56:54",390,89,19,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.coins.22
+9602,63,"2018-04-01 08:58:47",117582983,"2018-04-01 08:58:45",12,"2018-04-03 10:25:07",300,291,67,"Деньги от Payment Ninja",fb,EmptyLikes,LK,topfacemobappandroid,pn.likes.100.3
+9457,63,"2018-04-01 22:14:45",117601001,"2018-04-01 22:14:42",3,"2018-04-05 00:15:19",1237,865,147,"Деньги от Google Play",gp,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9522,63,"2018-04-03 10:55:47",117641948,"2018-04-03 10:55:46",4,"2018-04-13 14:40:05",1431,1001,147,"Деньги от Google Play",gp,promo.key31,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117615539,"2018-04-02 11:27:55",6,"2018-04-04 08:28:41",109,106,19,"Деньги от Payment Ninja",gp,EmptyLikes,LV,topfacemobappandroid,pn.coins.6.1
+9432,63,"2018-04-01 16:57:46",117591573,"2018-04-01 16:57:18",1,"2018-04-03 20:44:09",999,969,147,"Деньги от Payment Ninja",fb,promo.key31,PE,topfacemobappandroid,pn.sub.vip.month.10
+9498,63,"2018-04-01 05:24:54",117580643,"2018-04-01 05:24:53",1,"2018-04-01 12:19:29",999,969,147,"Деньги от Payment Ninja",fb,PopularUserBlockDialog,IN,topfacemobappandroid,pn.sub.vip.month.10
+8786,42,"2018-04-06 09:44:11",117706865,"2018-04-06 09:44:10",3,"2018-04-09 11:57:24",1222,855,147,"Деньги от Google Play",gp,AutoReplyMessage,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-04 21:33:33",117677670,"2018-04-04 21:31:08",3,"2018-04-06 09:33:20",300,291,67,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.likes.100.3
+,,,117627952,"2018-04-02 20:43:37",3,"2018-04-06 09:30:14",1957,1369,147,"Деньги от Google Play",st,promo.key31,LV,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",4,"2018-04-02 07:23:12",300,291,67,"Деньги от Payment Ninja",fb,EmptyLikes,IL,topfacemobappandroid,pn.likes.100.3
+9453,63,"2018-03-31 15:07:20",117567014,"2018-03-31 15:07:19",18,"2018-04-08 04:15:49",500,485,19,"Деньги от Payment Ninja",fb,EmptyLikes,IL,topfacemobappandroid,pn.coins.40.5
+,,,117628782,"2018-04-02 21:12:09",6,"2018-04-15 22:29:18",959,671,147,"Деньги от Google Play",gp,PopularUserBlockDialog,MZ,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+5609,45,"2018-04-01 23:52:26",117603897,"2018-04-01 23:51:34",3,"2018-04-05 10:29:44",996,697,147,"Деньги от Google Play",st,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117672817,"2018-04-04 17:59:25",3,"2018-04-07 19:59:42",1353,947,147,"Деньги от Google Play",fb,TrialVipPopup,BR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",42,"2018-04-06 17:41:48",100,97,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9464,63,"2018-04-03 08:49:05",117640165,"2018-04-03 08:49:03",3,"2018-04-03 21:03:06",1237,865,147,"Деньги от Google Play",gp,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117582707,"2018-04-01 08:38:42",4,"2018-04-04 10:45:05",1601,1120,147,"Деньги от Google Play",gp,TrialVipPopup,SV,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9526,63,"2018-04-01 22:22:13",117601249,"2018-04-01 22:22:10",1,"2018-04-08 08:07:00",561,392,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+,,,117594543,"2018-04-01 18:45:37",1,"2018-04-01 19:04:54",510,178,68,"Деньги от PaymentWall (mobile)",fb,none,MD,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9725,63,"2018-04-05 04:26:21",117685143,"2018-04-05 04:26:20",3,"2018-04-08 06:26:41",1230,861,147,"Деньги от Google Play",fb,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-03-31 00:30:12",117557279,"2018-03-31 00:30:11",6,"2018-04-11 09:08:36",476,333,19,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.40.5
+9461,63,"2018-03-31 07:55:41",117561866,"2018-03-31 07:53:17",4,"2018-04-03 09:56:10",1417,991,147,"Деньги от Google Play",st,TrialVipPopup,MY,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-01 21:03:49",117598640,"2018-04-01 21:02:05",4,"2018-04-02 13:43:43",970,679,146,"Деньги от Google Play",st,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.100.10
+9499,63,"2018-04-02 12:45:11",117616919,"2018-04-02 12:45:04",1,"2018-04-03 08:34:33",960,672,147,"Деньги от Google Play",fb,PopularUserChatBlock,IN,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+,,,117590684,"2018-04-01 16:21:26",8,"2018-04-04 18:21:36",1933,1353,147,"Деньги от Google Play",gp,TrialVipPopup,ES,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9602,63,"2018-04-01 08:58:47",117582983,"2018-04-01 08:58:45",5,"2018-04-03 10:22:33",100,97,19,"Деньги от Payment Ninja",fb,autorefill,LK,topfacemobappandroid,pn.coins.6.1
+,,,117654124,"2018-04-03 22:04:30",1,"2018-04-04 04:39:54",741,518,147,"Деньги от Google Play",st,promo.key31,CO,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9740,63,"2018-04-04 21:04:54",117676990,"2018-04-04 21:04:53",3,"2018-04-10 14:42:47",516,137,67,"Деньги от PaymentWall (mobile)",fb,none,LV,topfacemobappandroid,com.topface.topface.buy.sms.likes.1
+9457,63,"2018-04-06 00:02:47",117702218,"2018-04-06 00:02:19",2,"2018-04-08 09:52:34",500,485,19,"Деньги от Payment Ninja",st,EmptyLikes,MX,topfacemobappandroid,pn.coins.40.5
+9417,63,"2018-04-02 07:20:09",117611414,"2018-04-02 07:19:30",3,"2018-04-05 09:20:11",1436,1005,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9569,63,"2018-04-02 19:49:46",117626437,"2018-04-02 19:49:44",1,"2018-04-04 03:56:14",999,969,147,"Деньги от Payment Ninja",fb,PopularUserBlockDialog,AR,topfacemobappandroid,pn.sub.vip.month.10
+9552,63,"2018-04-04 11:20:57",117665536,"2018-04-04 11:20:55",4,"2018-04-07 14:07:41",1594,1115,147,"Деньги от Google Play",fb,TrialVipPopup,UG,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9469,63,"2018-04-02 06:24:42",117610544,"2018-04-02 06:24:40",4,"2018-04-03 07:10:04",1457,1019,147,"Деньги от Google Play",fb,PopularUserChatBlock,AE,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9428,63,"2018-04-02 15:01:07",117619660,"2018-04-02 15:01:06",1,"2018-04-02 15:09:50",572,400,147,"Деньги от Google Play",gp,UserProfileFragment,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9526,63,"2018-04-01 22:22:13",117601249,"2018-04-01 22:22:10",5,"2018-04-11 10:00:29",269,188,146,"Деньги от Google Play",fb,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+9397,63,"2018-04-02 18:13:41",117624010,"2018-04-02 18:13:40",3,"2018-04-05 20:13:55",1318,922,147,"Деньги от Google Play",fb,TrialVipPopup,CO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9580,63,"2018-04-04 23:28:10",117680561,"2018-04-04 23:28:08",3,"2018-04-08 02:14:55",1231,861,147,"Деньги от Google Play",fb,AutoReplyMessage,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9464,63,"2018-04-06 09:34:50",117706817,"2018-04-06 09:34:49",9,"2018-04-15 02:29:52",1000,970,19,"Деньги от Payment Ninja",gp,EmptyLikes,PE,topfacemobappandroid,pn.coins.100.10
+9531,63,"2018-04-01 23:51:23",117603892,"2018-04-01 23:51:22",2,"2018-04-02 20:00:36",1006,704,147,"Деньги от Google Play",fb,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9602,63,"2018-04-01 09:27:35",117583361,"2018-04-01 09:27:33",1,"2018-04-01 10:00:50",999,969,147,"Деньги от Payment Ninja",st,LeftMenu,IQ,topfacemobappandroid,pn.sub.vip.month.10
+9691,63,"2018-04-02 14:50:57",117619463,"2018-04-02 14:50:56",3,"2018-04-05 17:13:07",1600,1120,147,"Деньги от Google Play",gp,AutoReplyMessage,EC,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9465,63,"2018-04-03 21:08:33",117652798,"2018-04-03 21:08:30",1,"2018-04-03 23:23:13",999,969,147,"Деньги от Payment Ninja",st,AutoReplyMessage,NG,topfacemobappandroid,pn.sub.vip.month.10
+9365,63,"2018-04-05 02:32:09",117683627,"2018-04-05 02:29:12",3,"2018-04-08 04:32:25",1597,1117,147,"Деньги от Google Play",st,TrialVipPopup,US,standalonetf,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9489,63,"2018-04-02 18:18:04",117624125,"2018-04-02 18:18:02",3,"2018-04-05 20:23:12",1243,870,147,"Деньги от Google Play",gp,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117576422,"2018-03-31 23:40:55",1,"2018-04-06 18:16:43",1077,1044,147,"Деньги от Payment Ninja",st,promo.key31,FR,topfacemobappandroid,pn.sub.vip.month.10
+9459,63,"2018-04-02 21:20:17",117628970,"2018-04-02 21:18:46",3,"2018-04-05 23:40:05",1206,844,147,"Деньги от Google Play",st,Dating,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117590684,"2018-04-01 16:21:26",3,"2018-04-02 11:53:46",86,60,146,"Деньги от Google Play",gp,EmptyLikes,ES,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9526,63,"2018-04-03 00:50:33",117634209,"2018-04-03 00:50:32",3,"2018-04-03 01:14:32",170,118,67,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.likes.100.3
+9453,63,"2018-04-01 21:03:49",117598640,"2018-04-01 21:02:05",3,"2018-04-02 13:43:17",286,200,67,"Деньги от Google Play",st,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",10,"2018-04-01 14:53:38",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+597,12,"2018-04-01 02:49:22",117579107,"2018-04-01 02:49:22",12,"2018-04-02 22:25:23",75,52,146,"Деньги от Google Play",st,EmptyLikes,BR,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9526,63,"2018-04-01 15:58:31",117590166,"2018-04-01 15:58:30",1,"2018-04-03 10:09:37",1540,1078,147,"Деньги от Google Play",fb,promo.key31,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.3.2699.v1
+9420,63,"2018-04-04 04:32:32",117660073,"2018-04-04 04:32:30",1,"2018-04-12 05:43:13",999,969,147,"Деньги от Payment Ninja",gp,promo.key31,PR,topfacemobappandroid,pn.sub.vip.month.10
+597,12,"2018-04-04 06:05:19",117661375,"2018-04-04 06:05:19",3,"2018-04-08 09:11:25",1593,1115,147,"Деньги от Google Play",st,TrialVipPopup,JO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+5609,45,"2018-04-01 22:48:41",117602102,"2018-04-01 22:48:40",1,"2018-04-01 23:34:52",510,177,68,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",7,"2018-04-07 00:56:47",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",19,"2018-04-05 09:46:16",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9485,63,"2018-04-05 22:43:37",117700929,"2018-04-05 22:43:36",1,"2018-04-06 19:21:52",510,225,68,"Деньги от PaymentWall (mobile)",gp,none,SK,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+,,,117573793,"2018-03-31 21:33:38",3,"2018-04-03 23:33:45",1134,793,147,"Деньги от Google Play",vk,TrialVipPopup,RU,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9569,63,"2018-04-03 05:12:11",117637431,"2018-04-03 05:12:09",3,"2018-04-06 07:19:09",1234,863,147,"Деньги от Google Play",fb,AutoReplyMessage,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117572517,"2018-03-31 20:31:31",2,"2018-04-03 22:57:58",1194,835,147,"Деньги от Google Play",fb,TrialVipPopup,UA,topfacemobappwindowsphone,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",4,"2018-04-07 00:56:39",100,97,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+,,,117649490,"2018-04-03 18:53:42",1,"2018-04-07 14:00:10",2456,1719,147,"Деньги от Google Play",gp,UserProfileFragment,SI,topfacemobappandroid,com.topface.topface.sub.vip.month.3.2699.v1
+9560,63,"2018-04-06 05:19:10",117705227,"2018-04-06 05:19:09",1,"2018-04-07 18:30:47",963,674,147,"Деньги от Google Play",gp,PopularUserBlockDialog,IN,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+5609,45,"2018-04-04 17:03:50",117671696,"2018-04-04 17:03:49",3,"2018-04-05 01:42:03",516,177,19,"Деньги от PaymentWall (mobile)",fb,none,TR,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+6169,45,"2018-04-02 00:45:23",117605182,"2018-04-02 00:45:21",1,"2018-04-12 10:18:19",1000,970,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.100.10
+9552,63,"2018-03-31 20:35:30",117572594,"2018-03-31 20:35:29",1,"2018-03-31 21:06:44",456,319,146,"Деньги от Google Play",gp,EmptyLikes,IS,topfacemobappandroid,com.topface.topface.sub.coins.month.40.5
+8786,42,"2018-04-01 23:09:52",117602746,"2018-04-01 23:09:50",7,"2018-04-07 10:53:39",999,969,147,"Деньги от Payment Ninja",gp,Fans,UA,topfacemobappandroid,pn.sub.vip.month.10
+,,,117709435,"2018-04-06 13:49:19",1,"2018-04-06 13:58:58",559,391,147,"Деньги от Google Play",fb,Dating,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 23:09:52",117602746,"2018-04-01 23:09:50",3,"2018-04-03 22:58:29",500,485,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.40.5
+,,,117570269,"2018-03-31 18:25:49",5,"2018-04-03 20:25:55",1411,987,147,"Деньги от Google Play",fb,TrialVipPopup,ID,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9438,63,"2018-04-05 02:10:41",117683354,"2018-04-05 02:10:40",4,"2018-04-08 04:52:27",1230,861,147,"Деньги от Google Play",fb,TrialVipPopup,MX,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9552,63,"2018-04-02 16:45:51",117621865,"2018-04-02 16:45:49",4,"2018-04-07 19:16:25",1000,970,19,"Деньги от Payment Ninja",fb,EmptyLikes,US,topfacemobappandroid,pn.coins.100.10
+8786,42,"2018-04-05 16:34:33",117694358,"2018-04-05 16:33:49",12,"2018-04-08 11:37:08",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+,,,117582278,"2018-04-01 08:02:54",1,"2018-04-08 18:10:27",1000,700,147,"Деньги от Google Play",gp,LeftMenu,US,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+597,12,"2018-04-01 12:50:04",117586565,"2018-04-01 12:50:04",6,"2018-04-08 14:11:15",234,9,19,"Деньги от PaymentWall (mobile)",st,none,US,topfacemobappandroid,com.topface.topface.buy.sms.coins.8
+,,,117691872,"2018-04-05 13:46:34",3,"2018-04-08 15:46:45",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9717,33,"2018-04-04 07:58:09",117662841,"2018-04-04 07:58:07",1,"2018-04-04 08:29:10",999,969,147,"Деньги от Payment Ninja",fb,UserProfileFragment,US,topfacemobappandroid,pn.sub.vip.month.10
+9690,63,"2018-04-02 16:11:48",117621111,"2018-04-02 16:11:47",8,"2018-04-05 20:23:57",1932,1352,147,"Деньги от Google Play",fb,ownProfile,PL,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9389,63,"2018-03-31 20:03:06",117571994,"2018-03-31 20:03:04",3,"2018-04-01 05:31:38",286,200,67,"Деньги от Google Play",fb,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.likes.100.3
+,,,117557495,"2018-03-31 00:43:41",3,"2018-04-03 02:50:08",1004,702,147,"Деньги от Google Play",gp,LeftMenu,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",8,"2018-04-10 23:38:11",100,97,19,"Деньги от Payment Ninja",fb,autorefill,CM,topfacemobappandroid,pn.coins.6.1
+9379,63,"2018-04-02 16:06:30",117621016,"2018-04-02 16:06:29",4,"2018-04-07 10:37:06",1206,844,147,"Деньги от Google Play",gp,promo.key31,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117599829,"2018-04-01 21:38:30",1,"2018-04-01 22:07:32",388,271,147,"Деньги от Google Play",st,Dating,UA,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+8786,42,"2018-04-01 23:09:52",117602746,"2018-04-01 23:09:50",16,"2018-04-17 18:41:46",500,485,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.40.5
+8786,42,"2018-04-04 05:33:13",117660851,"2018-04-04 05:33:13",3,"2018-04-07 07:33:18",1206,844,147,"Деньги от Google Play",gp,TrialVipPopup,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9498,63,"2018-04-01 19:02:38",117595091,"2018-04-01 19:02:36",3,"2018-04-04 21:02:46",1436,1005,147,"Деньги от Google Play",fb,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",8,"2018-04-11 23:36:18",110,107,19,"Деньги от Payment Ninja",fb,Fans,FR,topfacemobappandroid,pn.coins.6.1
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",1,"2018-04-01 13:45:30",300,291,67,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.likes.100.3
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",26,"2018-04-17 16:01:28",516,88,19,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+5609,45,"2018-04-04 15:20:07",117669548,"2018-04-04 15:20:05",3,"2018-04-06 06:47:07",53,37,146,"Деньги от Google Play",gp,EmptyLikes,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",2,"2018-04-01 13:45:59",100,97,19,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.coins.6.1
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",20,"2018-04-14 01:20:12",1589,1112,147,"Деньги от Google Play",fb,promo.key31,CM,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9390,63,"2018-04-01 23:57:09",117604063,"2018-04-01 23:57:09",3,"2018-04-05 01:57:15",1206,844,147,"Деньги от Google Play",gp,TrialVipPopup,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117656703,"2018-04-04 00:03:25",4,"2018-04-05 01:27:13",516,91,19,"Деньги от PaymentWall (mobile)",fb,none,PT,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+9499,63,"2018-04-01 21:52:51",117600266,"2018-04-01 21:51:54",3,"2018-04-04 23:54:46",1436,1005,147,"Деньги от Google Play",fb,Dating,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9706,63,"2018-04-05 04:41:02",117685342,"2018-04-05 04:41:01",1,"2018-04-05 04:51:07",91,63,146,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+,,,117709964,"2018-04-06 14:21:21",1,"2018-04-06 21:06:35",510,83,68,"Деньги от PaymentWall (mobile)",gp,none,EG,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+8786,42,"2018-04-02 22:14:07",117630528,"2018-04-02 22:14:06",8,"2018-04-03 23:47:49",100,97,19,"Деньги от Payment Ninja",gp,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+,,,117559440,"2018-03-31 03:26:56",3,"2018-04-03 05:35:43",795,556,147,"Деньги от Google Play",fb,TrialVipPopup,US,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9465,63,"2018-04-03 09:51:38",117641039,"2018-04-03 09:51:36",3,"2018-04-06 11:51:55",1416,991,147,"Деньги от Google Play",fb,TrialVipPopup,IR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",39,"2018-04-06 06:17:31",300,291,67,"Деньги от Payment Ninja",st,EmptyLikes,UA,topfacemobappandroid,pn.likes.100.3
+,,,117703636,"2018-04-06 02:12:18",4,"2018-04-09 04:12:33",797,557,147,"Деньги от Google Play",fb,TrialVipPopup,GB,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9526,63,"2018-04-04 10:41:56",117665009,"2018-04-04 10:41:55",1,"2018-04-04 12:08:33",569,398,147,"Деньги от Google Play",fb,SendMessage,TR,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+9503,63,"2018-04-06 07:52:54",117706217,"2018-04-06 07:52:52",12,"2018-04-14 10:33:44",90,62,19,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.6.1
+8786,42,"2018-04-04 12:49:41",117666886,"2018-04-04 12:49:40",4,"2018-04-07 17:44:41",1206,844,147,"Деньги от Google Play",gp,TrialVipPopup,UA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9464,63,"2018-04-03 19:25:07",117650228,"2018-04-03 19:25:06",3,"2018-04-06 21:29:11",1597,1117,147,"Деньги от Google Play",fb,TrialVipPopup,ZA,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-01 21:03:49",117598640,"2018-04-01 21:02:05",7,"2018-04-04 23:09:08",1436,1005,147,"Деньги от Google Play",st,LeftMenu,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,117691423,"2018-04-05 13:14:14",12,"2018-04-09 08:16:20",258,129,19,"Деньги от Одноклассников",ok,sympathy_access,RU,topface,coin.two
+9602,63,"2018-04-06 06:09:58",117705619,"2018-04-06 06:09:57",15,"2018-04-12 07:53:47",100,97,19,"Деньги от Payment Ninja",fb,EmptyLikes,CM,topfacemobappandroid,pn.coins.6.1
+9485,63,"2018-04-01 22:15:30",117601019,"2018-04-01 22:15:29",2,"2018-04-03 10:13:39",540,524,19,"Деньги от Payment Ninja",fb,EmptyLikes,CY,topfacemobappandroid,pn.coins.40.5
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",17,"2018-04-01 16:07:22",100,97,19,"Деньги от Payment Ninja",st,autorefill,UA,topfacemobappandroid,pn.coins.6.1
+9718,33,"2018-04-03 12:01:22",117642803,"2018-04-03 12:01:20",2,"2018-04-03 12:51:18",1083,1050,19,"Деньги от Payment Ninja",gp,Menu,PT,topfacemobappandroid,pn.coins.100.10
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",29,"2018-04-17 16:03:09",510,88,68,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.vip.day.10
+9500,63,"2018-04-06 15:21:18",117710939,"2018-04-06 15:21:16",4,"2018-04-09 17:21:26",1438,1006,147,"Деньги от Google Play",gp,TrialVipPopup,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9503,63,"2018-04-06 07:52:54",117706217,"2018-04-06 07:52:52",6,"2018-04-08 19:23:50",91,63,19,"Деньги от Google Play",gp,EmptyLikes,IN,topfacemobappandroid,com.topface.topface.coins.6.1
+8786,42,"2018-04-01 23:09:52",117602746,"2018-04-01 23:09:50",9,"2018-04-13 19:54:59",500,485,19,"Деньги от Payment Ninja",gp,EmptyLikes,UA,topfacemobappandroid,pn.coins.40.5
+9553,63,"2018-04-02 17:10:19",117622443,"2018-04-02 17:10:18",7,"2018-04-02 20:00:53",86,60,19,"Деньги от Google Play",fb,Gifts,ES,topfacemobappandroid,com.topface.topface.coins.6.1
+9729,63,"2018-04-05 09:41:44",117688776,"2018-04-05 09:41:43",3,"2018-04-08 11:41:58",1230,861,147,"Деньги от Google Play",fb,TrialVipPopup,DO,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9453,63,"2018-04-02 07:51:58",117611923,"2018-04-02 07:51:56",20,"2018-04-10 12:33:41",516,89,19,"Деньги от PaymentWall (mobile)",fb,none,IN,topfacemobappandroid,com.topface.topface.buy.sms.coins.30
+597,12,"2018-03-31 07:09:13",117561469,"2018-03-31 07:09:13",1,"2018-03-31 19:36:54",912,638,147,"Деньги от Google Play",st,LeftMenu,EC,topfacemobappandroid,com.topface.topface.sub.vip.month.10
+,,,117615539,"2018-04-02 11:27:55",8,"2018-04-04 08:28:50",109,106,19,"Деньги от Payment Ninja",gp,EmptyLikes,LV,topfacemobappandroid,pn.coins.6.1
+9630,63,"2018-04-01 21:18:26",117599175,"2018-04-01 21:18:24",1,"2018-04-03 18:04:08",500,485,19,"Деньги от Payment Ninja",gp,EmptyLikes,MY,topfacemobappandroid,pn.coins.40.5
+9438,63,"2018-04-04 20:14:54",117675711,"2018-04-04 20:14:52",3,"2018-04-08 02:33:23",1000,970,19,"Деньги от Payment Ninja",fb,EmptyLikes,EC,topfacemobappandroid,pn.coins.100.10
+9469,63,"2018-03-31 08:42:54",117562301,"2018-03-31 08:42:53",1,"2018-04-10 11:40:28",999,969,147,"Деньги от Payment Ninja",gp,promo.key31,AE,topfacemobappandroid,pn.sub.vip.month.10
+8786,42,"2018-04-01 13:23:29",117587116,"2018-04-01 13:21:17",4,"2018-04-01 13:46:53",8999,8729,147,"Деньги от Payment Ninja",st,UserProfileFragment,UA,topfacemobappandroid,pn.sub.vip.year.90
+9523,63,"2018-04-04 14:16:36",117668338,"2018-04-04 14:16:34",3,"2018-04-07 16:17:15",985,689,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9526,63,"2018-04-03 00:50:33",117634209,"2018-04-03 00:50:32",1,"2018-04-03 01:08:21",54,37,146,"Деньги от Google Play",gp,Menu,TR,topfacemobappandroid,com.topface.topface.sub.coins.month.6.1
+9615,33,"2018-04-06 00:54:06",117702853,"2018-04-06 00:54:03",6,"2018-04-11 23:10:59",543,527,19,"Деньги от Payment Ninja",fb,EmptyLikes,FR,topfacemobappandroid,pn.coins.40.5
+9485,63,"2018-04-01 02:08:16",117578653,"2018-04-01 02:08:02",3,"2018-04-04 04:34:08",1898,1328,147,"Деньги от Google Play",gp,LeftMenu,DE,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9499,63,"2018-04-03 21:39:50",117629185,"2018-04-02 21:26:08",4,"2018-04-11 15:51:28",1431,1001,147,"Деньги от Google Play",st,LeftMenu,IN,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+9424,63,"2018-04-03 02:32:38",117635632,"2018-04-03 02:32:38",3,"2018-04-06 13:48:04",983,688,147,"Деньги от Google Play",fb,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
