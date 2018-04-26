@@ -38,6 +38,7 @@
 "2015-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2015-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
 "2015-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
+"2015-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",0
 "2015-01-01 00:00:00","first_app:topfacemobappios","*",869
 "2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",38
 "2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",34
@@ -77,7 +78,8 @@
 "2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",1
 "2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",1
 "2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",1
-"2015-01-01 00:00:00","first_app:standalonetf","*","85,182"
+"2015-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",1
+"2015-01-01 00:00:00","first_app:standalonetf","*","85,204"
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",40
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",29
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",22
@@ -116,6 +118,7 @@
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",5
 "2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",3
+"2015-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",4
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","*",178
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",1
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",3
@@ -155,7 +158,8 @@
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
-"2015-01-01 00:00:00","first_app:topface AND platform:ok","*","95,637"
+"2015-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
+"2015-01-01 00:00:00","first_app:topface AND platform:ok","*","95,645"
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total","1,173"
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",952
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",740
@@ -194,6 +198,7 @@
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",34
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",29
 "2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",28
+"2015-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",30
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","*",14
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -233,7 +238,8 @@
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2015-02-01 00:00:00","first_app:topfacemobappandroid","*","4,968"
+"2015-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2015-02-01 00:00:00","first_app:topfacemobappandroid","*","4,980"
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",56
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",40
@@ -272,7 +278,8 @@
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",4
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",6
 "2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",3
-"2015-02-01 00:00:00","first_app:topfacemobappios","*","5,411"
+"2015-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",1
+"2015-02-01 00:00:00","first_app:topfacemobappios","*","5,416"
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",176
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",136
@@ -311,7 +318,8 @@
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",5
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",3
 "2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",2
-"2015-02-01 00:00:00","first_app:standalonetf","*","46,539"
+"2015-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",2
+"2015-02-01 00:00:00","first_app:standalonetf","*","46,572"
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",1
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",28
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",20
@@ -350,6 +358,7 @@
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",3
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",5
 "2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",5
+"2015-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",7
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","*","1,559"
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",38
@@ -389,7 +398,8 @@
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",2
 "2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
-"2015-02-01 00:00:00","first_app:topface AND platform:ok","*","115,793"
+"2015-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
+"2015-02-01 00:00:00","first_app:topface AND platform:ok","*","115,853"
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total","1,346"
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total","1,420"
@@ -428,6 +438,7 @@
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",30
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",26
 "2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",24
+"2015-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",35
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","*",240
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",3
@@ -467,7 +478,8 @@
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",1
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",1
 "2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",1
-"2015-03-01 00:00:00","first_app:topfacemobappandroid","*","2,090"
+"2015-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",1
+"2015-03-01 00:00:00","first_app:topfacemobappandroid","*","2,096"
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",45
@@ -506,7 +518,8 @@
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",2
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",1
 "2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",2
-"2015-03-01 00:00:00","first_app:topfacemobappios","*","2,771"
+"2015-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",1
+"2015-03-01 00:00:00","first_app:topfacemobappios","*","2,772"
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",141
@@ -545,7 +558,8 @@
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",5
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",4
 "2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",4
-"2015-03-01 00:00:00","first_app:standalonetf","*","21,001"
+"2015-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",3
+"2015-03-01 00:00:00","first_app:standalonetf","*","21,047"
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",33
@@ -584,7 +598,8 @@
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",3
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",2
-"2015-03-01 00:00:00","first_app:topface AND platform:vk","*","54,273"
+"2015-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
+"2015-03-01 00:00:00","first_app:topface AND platform:vk","*","54,288"
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",933
@@ -623,7 +638,8 @@
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",18
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",27
 "2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",23
-"2015-03-01 00:00:00","first_app:topface AND platform:ok","*","145,216"
+"2015-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",30
+"2015-03-01 00:00:00","first_app:topface AND platform:ok","*","145,252"
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total","2,610"
@@ -662,7 +678,8 @@
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",44
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",38
 "2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",27
-"2015-03-01 00:00:00","first_app:topface AND platform:fb","*","3,851"
+"2015-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",23
+"2015-03-01 00:00:00","first_app:topface AND platform:fb","*","3,855"
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",83
@@ -701,6 +718,7 @@
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",3
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",1
 "2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",1
+"2015-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",1
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","*",83
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -740,6 +758,7 @@
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
 "2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
+"2015-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",0
 "2015-04-01 00:00:00","first_app:topfacemobappios","*",749
 "2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -779,6 +798,7 @@
 "2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",1
 "2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",2
 "2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",0
+"2015-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",0
 "2015-04-01 00:00:00","first_app:standalonetf","*","1,409"
 "2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -818,7 +838,8 @@
 "2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",4
 "2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
-"2015-04-01 00:00:00","first_app:topface AND platform:vk","*","33,624"
+"2015-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",0
+"2015-04-01 00:00:00","first_app:topface AND platform:vk","*","33,627"
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -857,7 +878,8 @@
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",21
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",22
 "2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",14
-"2015-04-01 00:00:00","first_app:topface AND platform:ok","*","92,886"
+"2015-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",20
+"2015-04-01 00:00:00","first_app:topface AND platform:ok","*","92,897"
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -896,6 +918,7 @@
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",20
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",24
 "2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",16
+"2015-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",20
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","*","3,860"
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -935,6 +958,7 @@
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",4
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",1
 "2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2015-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",1
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","*",46
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -974,6 +998,7 @@
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
 "2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
+"2015-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",0
 "2015-05-01 00:00:00","first_app:topfacemobappios","*",75
 "2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -1013,6 +1038,7 @@
 "2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",1
 "2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",1
 "2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",1
+"2015-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",1
 "2015-05-01 00:00:00","first_app:standalonetf","*","2,463"
 "2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -1052,7 +1078,8 @@
 "2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
-"2015-05-01 00:00:00","first_app:topface AND platform:vk","*","20,043"
+"2015-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
+"2015-05-01 00:00:00","first_app:topface AND platform:vk","*","20,045"
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -1091,6 +1118,7 @@
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",10
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",9
 "2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",6
+"2015-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",6
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","*","21,959"
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -1130,6 +1158,7 @@
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",6
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",9
 "2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",7
+"2015-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",11
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","*","6,143"
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -1169,6 +1198,7 @@
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",6
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",6
 "2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",4
+"2015-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",5
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","*","1,396"
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -1208,6 +1238,7 @@
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",2
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",2
 "2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
+"2015-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",0
 "2015-06-01 00:00:00","first_app:topfacemobappios","*",226
 "2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -1247,7 +1278,8 @@
 "2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",1
 "2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",1
 "2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",1
-"2015-06-01 00:00:00","first_app:standalonetf","*","18,512"
+"2015-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",1
+"2015-06-01 00:00:00","first_app:standalonetf","*","18,515"
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -1286,6 +1318,7 @@
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",9
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",9
 "2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",6
+"2015-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",9
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","*","14,491"
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -1325,6 +1358,7 @@
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",7
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",7
 "2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",3
+"2015-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",10
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","*","17,086"
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -1364,6 +1398,7 @@
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",6
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",9
 "2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",8
+"2015-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",3
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","*",259
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -1403,7 +1438,8 @@
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",2
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",2
 "2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",2
-"2015-07-01 00:00:00","first_app:topfacemobappandroid","*","12,285"
+"2015-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",2
+"2015-07-01 00:00:00","first_app:topfacemobappandroid","*","12,288"
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -1442,6 +1478,7 @@
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",6
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",7
 "2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",4
+"2015-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",6
 "2015-07-01 00:00:00","first_app:topfacemobappios","*",544
 "2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -1481,7 +1518,8 @@
 "2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",0
 "2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",0
 "2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",1
-"2015-07-01 00:00:00","first_app:standalonetf","*","26,602"
+"2015-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",0
+"2015-07-01 00:00:00","first_app:standalonetf","*","26,630"
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -1520,7 +1558,8 @@
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",8
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",8
 "2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",4
-"2015-07-01 00:00:00","first_app:topface AND platform:vk","*","17,224"
+"2015-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",9
+"2015-07-01 00:00:00","first_app:topface AND platform:vk","*","17,233"
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -1559,7 +1598,8 @@
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",18
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",17
 "2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",9
-"2015-07-01 00:00:00","first_app:topface AND platform:ok","*","56,766"
+"2015-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",10
+"2015-07-01 00:00:00","first_app:topface AND platform:ok","*","56,871"
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -1598,6 +1638,7 @@
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",19
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",21
 "2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",17
+"2015-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",17
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","*",3
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -1637,7 +1678,8 @@
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2015-08-01 00:00:00","first_app:topfacemobappandroid","*","7,901"
+"2015-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2015-08-01 00:00:00","first_app:topfacemobappandroid","*","7,904"
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -1676,7 +1718,8 @@
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",9
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",8
 "2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",3
-"2015-08-01 00:00:00","first_app:topfacemobappios","*","1,605"
+"2015-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",6
+"2015-08-01 00:00:00","first_app:topfacemobappios","*","1,608"
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -1715,7 +1758,8 @@
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",1
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",0
 "2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",0
-"2015-08-01 00:00:00","first_app:standalonetf","*","24,256"
+"2015-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",1
+"2015-08-01 00:00:00","first_app:standalonetf","*","24,271"
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -1754,7 +1798,8 @@
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",11
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",5
 "2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",4
-"2015-08-01 00:00:00","first_app:topface AND platform:vk","*","15,973"
+"2015-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",9
+"2015-08-01 00:00:00","first_app:topface AND platform:vk","*","15,982"
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -1793,7 +1838,8 @@
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",5
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",7
 "2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",5
-"2015-08-01 00:00:00","first_app:topface AND platform:ok","*","32,350"
+"2015-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",4
+"2015-08-01 00:00:00","first_app:topface AND platform:ok","*","32,367"
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -1832,6 +1878,7 @@
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",10
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",6
 "2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",6
+"2015-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",9
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","*",0
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -1871,6 +1918,7 @@
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2015-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","*","14,332"
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -1910,6 +1958,7 @@
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",12
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",9
 "2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",4
+"2015-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",4
 "2015-09-01 00:00:00","first_app:topfacemobappios","*","1,592"
 "2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -1949,7 +1998,8 @@
 "2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",6
 "2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",5
 "2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",1
-"2015-09-01 00:00:00","first_app:standalonetf","*","22,352"
+"2015-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",2
+"2015-09-01 00:00:00","first_app:standalonetf","*","22,357"
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -1988,7 +2038,8 @@
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",3
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",10
 "2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",6
-"2015-09-01 00:00:00","first_app:topface AND platform:vk","*","17,492"
+"2015-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",5
+"2015-09-01 00:00:00","first_app:topface AND platform:vk","*","17,501"
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -2027,7 +2078,8 @@
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",12
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",6
 "2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",10
-"2015-09-01 00:00:00","first_app:topface AND platform:ok","*","28,139"
+"2015-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",13
+"2015-09-01 00:00:00","first_app:topface AND platform:ok","*","28,149"
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -2066,7 +2118,8 @@
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",10
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",8
 "2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",7
-"2015-09-01 00:00:00","first_app:topface AND platform:fb","*","5,494"
+"2015-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",8
+"2015-09-01 00:00:00","first_app:topface AND platform:fb","*","5,496"
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -2105,7 +2158,8 @@
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",2
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",2
 "2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",2
-"2015-10-01 00:00:00","first_app:topfacemobappandroid","*","48,961"
+"2015-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",1
+"2015-10-01 00:00:00","first_app:topfacemobappandroid","*","48,968"
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -2144,7 +2198,8 @@
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",61
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",45
 "2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",35
-"2015-10-01 00:00:00","first_app:topfacemobappios","*","18,541"
+"2015-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",31
+"2015-10-01 00:00:00","first_app:topfacemobappios","*","18,544"
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -2183,7 +2238,8 @@
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",30
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",28
 "2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",19
-"2015-10-01 00:00:00","first_app:standalonetf","*","27,496"
+"2015-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",12
+"2015-10-01 00:00:00","first_app:standalonetf","*","27,499"
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -2222,7 +2278,8 @@
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",15
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",13
 "2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",13
-"2015-10-01 00:00:00","first_app:topface AND platform:vk","*","14,256"
+"2015-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",11
+"2015-10-01 00:00:00","first_app:topface AND platform:vk","*","14,259"
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -2261,7 +2318,8 @@
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",6
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",7
 "2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",10
-"2015-10-01 00:00:00","first_app:topface AND platform:ok","*","35,721"
+"2015-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",4
+"2015-10-01 00:00:00","first_app:topface AND platform:ok","*","35,722"
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -2300,7 +2358,8 @@
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",18
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",17
 "2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",7
-"2015-10-01 00:00:00","first_app:topface AND platform:fb","*","26,036"
+"2015-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",7
+"2015-10-01 00:00:00","first_app:topface AND platform:fb","*","26,049"
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -2339,6 +2398,7 @@
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",10
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",7
 "2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",4
+"2015-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",1
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","*","35,032"
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -2378,6 +2438,7 @@
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",39
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",29
 "2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",22
+"2015-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",22
 "2015-11-01 00:00:00","first_app:topfacemobappios","*","10,063"
 "2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -2417,6 +2478,7 @@
 "2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",14
 "2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",8
 "2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",8
+"2015-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",4
 "2015-11-01 00:00:00","first_app:standalonetf","*","28,004"
 "2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -2456,7 +2518,8 @@
 "2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",12
 "2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",16
 "2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",10
-"2015-11-01 00:00:00","first_app:topface AND platform:vk","*","14,935"
+"2015-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",10
+"2015-11-01 00:00:00","first_app:topface AND platform:vk","*","14,937"
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -2495,7 +2558,8 @@
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",9
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",10
 "2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",5
-"2015-11-01 00:00:00","first_app:topface AND platform:ok","*","39,825"
+"2015-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",5
+"2015-11-01 00:00:00","first_app:topface AND platform:ok","*","39,828"
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -2534,7 +2598,8 @@
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",13
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",12
 "2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",11
-"2015-11-01 00:00:00","first_app:topface AND platform:fb","*","58,855"
+"2015-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",8
+"2015-11-01 00:00:00","first_app:topface AND platform:fb","*","58,857"
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -2573,7 +2638,8 @@
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",26
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",24
 "2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",16
-"2015-12-01 00:00:00","first_app:topfacemobappandroid","*","37,692"
+"2015-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",14
+"2015-12-01 00:00:00","first_app:topfacemobappandroid","*","37,758"
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -2612,7 +2678,8 @@
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",41
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",47
 "2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",34
-"2015-12-01 00:00:00","first_app:topfacemobappios","*","11,002"
+"2015-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",26
+"2015-12-01 00:00:00","first_app:topfacemobappios","*","11,018"
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -2651,7 +2718,8 @@
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",20
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",21
 "2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",17
-"2015-12-01 00:00:00","first_app:standalonetf","*","21,494"
+"2015-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",12
+"2015-12-01 00:00:00","first_app:standalonetf","*","21,519"
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -2690,7 +2758,8 @@
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",6
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",6
 "2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",6
-"2015-12-01 00:00:00","first_app:topface AND platform:vk","*","14,559"
+"2015-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",5
+"2015-12-01 00:00:00","first_app:topface AND platform:vk","*","14,570"
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -2729,6 +2798,7 @@
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",8
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",8
 "2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",7
+"2015-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",9
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","*","29,729"
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -2768,7 +2838,8 @@
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",16
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",12
 "2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",12
-"2015-12-01 00:00:00","first_app:topface AND platform:fb","*","48,484"
+"2015-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",14
+"2015-12-01 00:00:00","first_app:topface AND platform:fb","*","48,531"
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -2807,7 +2878,8 @@
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",21
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",18
 "2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",14
-"2016-01-01 00:00:00","first_app:topfacemobappandroid","*","46,356"
+"2015-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",13
+"2016-01-01 00:00:00","first_app:topfacemobappandroid","*","46,402"
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -2846,7 +2918,8 @@
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",29
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",21
 "2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",23
-"2016-01-01 00:00:00","first_app:topfacemobappios","*","6,914"
+"2016-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",22
+"2016-01-01 00:00:00","first_app:topfacemobappios","*","6,918"
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -2885,7 +2958,8 @@
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",14
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",12
 "2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",15
-"2016-01-01 00:00:00","first_app:standalonetf","*","22,292"
+"2016-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",11
+"2016-01-01 00:00:00","first_app:standalonetf","*","22,307"
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -2924,7 +2998,8 @@
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",7
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",11
 "2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",10
-"2016-01-01 00:00:00","first_app:topface AND platform:vk","*","14,858"
+"2016-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",10
+"2016-01-01 00:00:00","first_app:topface AND platform:vk","*","14,868"
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -2963,7 +3038,8 @@
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",10
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",15
 "2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",9
-"2016-01-01 00:00:00","first_app:topface AND platform:ok","*","21,572"
+"2016-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",15
+"2016-01-01 00:00:00","first_app:topface AND platform:ok","*","21,580"
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -3002,7 +3078,8 @@
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",6
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",7
 "2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",13
-"2016-01-01 00:00:00","first_app:topface AND platform:fb","*","56,944"
+"2016-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",10
+"2016-01-01 00:00:00","first_app:topface AND platform:fb","*","56,994"
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -3041,7 +3118,8 @@
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",18
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",21
 "2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",16
-"2016-02-01 00:00:00","first_app:topfacemobappandroid","*","33,691"
+"2016-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",12
+"2016-02-01 00:00:00","first_app:topfacemobappandroid","*","33,692"
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -3080,6 +3158,7 @@
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",29
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",31
 "2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",20
+"2016-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",18
 "2016-02-01 00:00:00","first_app:topfacemobappios","*","8,037"
 "2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -3119,6 +3198,7 @@
 "2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",13
 "2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",12
 "2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",9
+"2016-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",6
 "2016-02-01 00:00:00","first_app:standalonetf","*","12,474"
 "2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -3158,7 +3238,8 @@
 "2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",6
 "2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",4
 "2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",3
-"2016-02-01 00:00:00","first_app:topface AND platform:vk","*","12,786"
+"2016-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",5
+"2016-02-01 00:00:00","first_app:topface AND platform:vk","*","12,787"
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -3197,6 +3278,7 @@
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",10
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",8
 "2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",6
+"2016-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",6
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","*","15,075"
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -3236,7 +3318,8 @@
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",6
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",9
 "2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",8
-"2016-02-01 00:00:00","first_app:topface AND platform:fb","*","27,921"
+"2016-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",8
+"2016-02-01 00:00:00","first_app:topface AND platform:fb","*","27,925"
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -3275,7 +3358,8 @@
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",9
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",8
 "2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",7
-"2016-03-01 00:00:00","first_app:topfacemobappandroid","*","34,181"
+"2016-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",5
+"2016-03-01 00:00:00","first_app:topfacemobappandroid","*","34,183"
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -3314,7 +3398,8 @@
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",31
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",29
 "2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",29
-"2016-03-01 00:00:00","first_app:topfacemobappios","*","9,596"
+"2016-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",23
+"2016-03-01 00:00:00","first_app:topfacemobappios","*","9,597"
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -3353,6 +3438,7 @@
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",18
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",15
 "2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",6
+"2016-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",4
 "2016-03-01 00:00:00","first_app:standalonetf","*","8,939"
 "2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -3392,6 +3478,7 @@
 "2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",0
 "2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2016-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","*","4,663"
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -3431,7 +3518,8 @@
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",5
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",3
 "2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
-"2016-03-01 00:00:00","first_app:topface AND platform:ok","*","7,895"
+"2016-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",2
+"2016-03-01 00:00:00","first_app:topface AND platform:ok","*","7,896"
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
@@ -3470,7 +3558,8 @@
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",2
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",1
-"2016-03-01 00:00:00","first_app:topface AND platform:fb","*","29,877"
+"2016-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",5
+"2016-03-01 00:00:00","first_app:topface AND platform:fb","*","29,878"
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -3509,7 +3598,8 @@
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",17
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",17
 "2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",14
-"2016-04-01 00:00:00","first_app:topfacemobappandroid","*","41,073"
+"2016-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",14
+"2016-04-01 00:00:00","first_app:topfacemobappandroid","*","41,074"
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -3548,6 +3638,7 @@
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",43
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",37
 "2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",33
+"2016-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",35
 "2016-04-01 00:00:00","first_app:topfacemobappios","*","21,502"
 "2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -3587,6 +3678,7 @@
 "2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",21
 "2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",20
 "2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",17
+"2016-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",12
 "2016-04-01 00:00:00","first_app:standalonetf","*","6,675"
 "2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -3626,6 +3718,7 @@
 "2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",3
+"2016-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",3
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","*",92
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -3665,6 +3758,7 @@
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","*",18
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -3704,6 +3798,7 @@
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","*","8,263"
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -3743,7 +3838,8 @@
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",2
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",1
 "2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-05-01 00:00:00","first_app:topfacemobappandroid","*","83,255"
+"2016-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",2
+"2016-05-01 00:00:00","first_app:topfacemobappandroid","*","83,262"
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -3782,7 +3878,8 @@
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",80
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",76
 "2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",57
-"2016-05-01 00:00:00","first_app:topfacemobappios","*","25,167"
+"2016-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",55
+"2016-05-01 00:00:00","first_app:topfacemobappios","*","25,168"
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -3821,6 +3918,7 @@
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",37
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",30
 "2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",25
+"2016-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",26
 "2016-05-01 00:00:00","first_app:standalonetf","*","6,223"
 "2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -3860,6 +3958,7 @@
 "2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",4
 "2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",3
 "2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",4
+"2016-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","*",112
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -3899,6 +3998,7 @@
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","*",27
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -3938,6 +4038,7 @@
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","*","9,505"
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -3977,7 +4078,8 @@
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",3
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",5
 "2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",4
-"2016-06-01 00:00:00","first_app:topfacemobappandroid","*","97,768"
+"2016-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",2
+"2016-06-01 00:00:00","first_app:topfacemobappandroid","*","97,774"
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -4016,7 +4118,8 @@
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",116
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",102
 "2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",80
-"2016-06-01 00:00:00","first_app:topfacemobappios","*","16,717"
+"2016-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",82
+"2016-06-01 00:00:00","first_app:topfacemobappios","*","16,718"
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -4055,6 +4158,7 @@
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",21
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",14
 "2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",10
+"2016-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",11
 "2016-06-01 00:00:00","first_app:standalonetf","*","4,047"
 "2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -4094,6 +4198,7 @@
 "2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",0
 "2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
+"2016-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","*",170
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -4133,6 +4238,7 @@
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","*",22
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -4172,7 +4278,8 @@
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
-"2016-06-01 00:00:00","first_app:topface AND platform:fb","*","9,856"
+"2016-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
+"2016-06-01 00:00:00","first_app:topface AND platform:fb","*","9,857"
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -4211,7 +4318,8 @@
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",6
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",4
 "2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",6
-"2016-07-01 00:00:00","first_app:topfacemobappandroid","*","119,706"
+"2016-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",5
+"2016-07-01 00:00:00","first_app:topfacemobappandroid","*","119,707"
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -4250,6 +4358,7 @@
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",162
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",138
 "2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",132
+"2016-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",134
 "2016-07-01 00:00:00","first_app:topfacemobappios","*","26,822"
 "2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -4289,6 +4398,7 @@
 "2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",41
 "2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",34
 "2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",24
+"2016-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",25
 "2016-07-01 00:00:00","first_app:standalonetf","*","5,356"
 "2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -4328,6 +4438,7 @@
 "2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",4
 "2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",2
+"2016-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","*",151
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -4367,6 +4478,7 @@
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","*",20
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -4406,6 +4518,7 @@
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","*",75
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -4445,7 +4558,8 @@
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-08-01 00:00:00","first_app:topfacemobappandroid","*","67,549"
+"2016-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2016-08-01 00:00:00","first_app:topfacemobappandroid","*","67,552"
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -4484,6 +4598,7 @@
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",95
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",84
 "2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",56
+"2016-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",60
 "2016-08-01 00:00:00","first_app:topfacemobappios","*","10,093"
 "2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -4523,7 +4638,8 @@
 "2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",23
 "2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",22
 "2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",22
-"2016-08-01 00:00:00","first_app:standalonetf","*","3,943"
+"2016-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",15
+"2016-08-01 00:00:00","first_app:standalonetf","*","3,944"
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -4562,6 +4678,7 @@
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",6
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",7
 "2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",6
+"2016-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",4
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","*",114
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -4601,6 +4718,7 @@
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","*",7
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -4640,6 +4758,7 @@
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","*",34
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -4679,7 +4798,8 @@
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-09-01 00:00:00","first_app:topfacemobappandroid","*","69,102"
+"2016-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2016-09-01 00:00:00","first_app:topfacemobappandroid","*","69,106"
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -4718,7 +4838,8 @@
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",106
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",92
 "2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",73
-"2016-09-01 00:00:00","first_app:topfacemobappios","*","27,293"
+"2016-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",73
+"2016-09-01 00:00:00","first_app:topfacemobappios","*","27,295"
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -4757,6 +4878,7 @@
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",38
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",39
 "2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",30
+"2016-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",23
 "2016-09-01 00:00:00","first_app:standalonetf","*","2,886"
 "2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -4796,6 +4918,7 @@
 "2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2016-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","*",90
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -4835,6 +4958,7 @@
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","*",17
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -4874,6 +4998,7 @@
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","*",17
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -4913,7 +5038,8 @@
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-10-01 00:00:00","first_app:topfacemobappandroid","*","88,731"
+"2016-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2016-10-01 00:00:00","first_app:topfacemobappandroid","*","88,738"
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -4952,7 +5078,8 @@
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",138
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",110
 "2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",95
-"2016-10-01 00:00:00","first_app:topfacemobappios","*","49,880"
+"2016-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",78
+"2016-10-01 00:00:00","first_app:topfacemobappios","*","49,886"
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -4991,7 +5118,8 @@
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",67
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",67
 "2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",48
-"2016-10-01 00:00:00","first_app:standalonetf","*","2,172"
+"2016-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",39
+"2016-10-01 00:00:00","first_app:standalonetf","*","2,173"
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -5030,7 +5158,8 @@
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",3
 "2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
-"2016-10-01 00:00:00","first_app:topface AND platform:vk","*",66
+"2016-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
+"2016-10-01 00:00:00","first_app:topface AND platform:vk","*",67
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -5069,6 +5198,7 @@
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2016-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","*",13
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -5108,6 +5238,7 @@
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","*",13
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -5147,7 +5278,8 @@
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-11-01 00:00:00","first_app:topfacemobappandroid","*","103,072"
+"2016-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2016-11-01 00:00:00","first_app:topfacemobappandroid","*","103,518"
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -5186,7 +5318,8 @@
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",134
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",113
 "2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",82
-"2016-11-01 00:00:00","first_app:topfacemobappios","*","62,186"
+"2016-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",74
+"2016-11-01 00:00:00","first_app:topfacemobappios","*","62,349"
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -5209,7 +5342,7 @@
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1608.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1609.total",0
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1610.total",0
-"2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1611.total","3,467"
+"2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1611.total","3,470"
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1612.total","1,094"
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1701.total",588
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1702.total",383
@@ -5225,7 +5358,8 @@
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",88
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",72
 "2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",65
-"2016-11-01 00:00:00","first_app:standalonetf","*","2,354"
+"2016-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",62
+"2016-11-01 00:00:00","first_app:standalonetf","*","2,360"
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -5264,7 +5398,8 @@
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
-"2016-11-01 00:00:00","first_app:topface AND platform:vk","*",102
+"2016-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
+"2016-11-01 00:00:00","first_app:topface AND platform:vk","*",103
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -5303,6 +5438,7 @@
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
+"2016-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","*",11
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -5342,6 +5478,7 @@
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","*",8
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -5381,7 +5518,8 @@
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2016-12-01 00:00:00","first_app:topfacemobappandroid","*","128,468"
+"2016-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2016-12-01 00:00:00","first_app:topfacemobappandroid","*","128,488"
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -5420,7 +5558,8 @@
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",186
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",148
 "2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",126
-"2016-12-01 00:00:00","first_app:topfacemobappios","*","78,394"
+"2016-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",125
+"2016-12-01 00:00:00","first_app:topfacemobappios","*","78,404"
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -5459,6 +5598,7 @@
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",153
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",112
 "2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",87
+"2016-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",96
 "2016-12-01 00:00:00","first_app:standalonetf","*","2,303"
 "2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -5498,6 +5638,7 @@
 "2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2016-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","*",93
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -5537,6 +5678,7 @@
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
+"2016-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","*",6
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -5576,6 +5718,7 @@
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2016-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","*",17
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -5615,7 +5758,8 @@
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-01-01 00:00:00","first_app:topfacemobappandroid","*","102,274"
+"2016-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-01-01 00:00:00","first_app:topfacemobappandroid","*","102,314"
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -5654,7 +5798,8 @@
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",140
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",125
 "2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",109
-"2017-01-01 00:00:00","first_app:topfacemobappios","*","92,615"
+"2017-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",96
+"2017-01-01 00:00:00","first_app:topfacemobappios","*","92,683"
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -5693,7 +5838,8 @@
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",194
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",162
 "2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",140
-"2017-01-01 00:00:00","first_app:standalonetf","*","2,682"
+"2017-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",119
+"2017-01-01 00:00:00","first_app:standalonetf","*","2,686"
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -5732,6 +5878,7 @@
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",3
 "2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
+"2017-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",3
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","*",105
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -5771,6 +5918,7 @@
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",2
 "2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
+"2017-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","*",10
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -5810,6 +5958,7 @@
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","*",17
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -5849,7 +5998,8 @@
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-02-01 00:00:00","first_app:topfacemobappandroid","*","55,836"
+"2017-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-02-01 00:00:00","first_app:topfacemobappandroid","*","55,837"
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -5888,7 +6038,8 @@
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",104
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",65
 "2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",51
-"2017-02-01 00:00:00","first_app:topfacemobappios","*","80,584"
+"2017-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",55
+"2017-02-01 00:00:00","first_app:topfacemobappios","*","80,586"
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -5927,6 +6078,7 @@
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",168
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",157
 "2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",149
+"2017-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",109
 "2017-02-01 00:00:00","first_app:standalonetf","*","2,259"
 "2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -5966,6 +6118,7 @@
 "2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2017-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",3
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","*",77
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -6005,6 +6158,7 @@
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","*",12
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -6044,6 +6198,7 @@
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","*",5
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -6083,7 +6238,8 @@
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-03-01 00:00:00","first_app:topfacemobappandroid","*","80,617"
+"2017-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-03-01 00:00:00","first_app:topfacemobappandroid","*","80,619"
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -6122,6 +6278,7 @@
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",135
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",113
 "2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",96
+"2017-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",96
 "2017-03-01 00:00:00","first_app:topfacemobappios","*","74,650"
 "2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -6161,6 +6318,7 @@
 "2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",144
 "2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",113
 "2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",107
+"2017-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",100
 "2017-03-01 00:00:00","first_app:standalonetf","*","1,882"
 "2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -6200,6 +6358,7 @@
 "2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2017-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","*",65
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -6239,6 +6398,7 @@
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","*",7
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -6278,6 +6438,7 @@
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","*",6
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -6317,7 +6478,8 @@
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-04-01 00:00:00","first_app:topfacemobappandroid","*","110,616"
+"2017-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-04-01 00:00:00","first_app:topfacemobappandroid","*","110,827"
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -6356,7 +6518,8 @@
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",301
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",245
 "2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",208
-"2017-04-01 00:00:00","first_app:topfacemobappios","*","30,055"
+"2017-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",174
+"2017-04-01 00:00:00","first_app:topfacemobappios","*","30,131"
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -6395,7 +6558,8 @@
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",90
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",72
 "2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",64
-"2017-04-01 00:00:00","first_app:standalonetf","*","2,013"
+"2017-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",48
+"2017-04-01 00:00:00","first_app:standalonetf","*","2,017"
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -6434,6 +6598,7 @@
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",2
 "2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",3
+"2017-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","*",52
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -6473,6 +6638,7 @@
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",1
 "2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","*",9
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -6512,6 +6678,7 @@
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","*",10
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -6551,7 +6718,8 @@
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-05-01 00:00:00","first_app:topfacemobappandroid","*","93,918"
+"2017-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-05-01 00:00:00","first_app:topfacemobappandroid","*","93,920"
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -6590,6 +6758,7 @@
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",215
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",187
 "2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",151
+"2017-05-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",124
 "2017-05-01 00:00:00","first_app:topfacemobappios","*","34,474"
 "2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -6629,6 +6798,7 @@
 "2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",82
 "2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",60
 "2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",60
+"2017-05-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",48
 "2017-05-01 00:00:00","first_app:standalonetf","*","2,444"
 "2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -6668,6 +6838,7 @@
 "2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
+"2017-05-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","*",70
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -6707,6 +6878,7 @@
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-05-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","*",10
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -6746,6 +6918,7 @@
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-05-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","*",17
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -6785,7 +6958,8 @@
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-06-01 00:00:00","first_app:topfacemobappandroid","*","151,380"
+"2017-05-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-06-01 00:00:00","first_app:topfacemobappandroid","*","151,391"
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -6824,6 +6998,7 @@
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",416
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",337
 "2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",291
+"2017-06-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",250
 "2017-06-01 00:00:00","first_app:topfacemobappios","*","31,321"
 "2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -6863,6 +7038,7 @@
 "2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",116
 "2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",91
 "2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",71
+"2017-06-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",60
 "2017-06-01 00:00:00","first_app:standalonetf","*","1,857"
 "2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -6902,6 +7078,7 @@
 "2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",2
+"2017-06-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","*",45
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -6941,6 +7118,7 @@
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-06-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","*",9
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -6980,6 +7158,7 @@
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-06-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","*",15
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -7019,7 +7198,8 @@
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-07-01 00:00:00","first_app:topfacemobappandroid","*","212,479"
+"2017-06-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-07-01 00:00:00","first_app:topfacemobappandroid","*","212,483"
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -7058,7 +7238,8 @@
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",637
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",526
 "2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",403
-"2017-07-01 00:00:00","first_app:topfacemobappios","*","32,052"
+"2017-07-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",356
+"2017-07-01 00:00:00","first_app:topfacemobappios","*","32,054"
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -7097,6 +7278,7 @@
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",149
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",126
 "2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",93
+"2017-07-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",74
 "2017-07-01 00:00:00","first_app:standalonetf","*","1,533"
 "2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -7136,6 +7318,7 @@
 "2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",1
 "2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",1
 "2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",2
+"2017-07-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",1
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","*",53
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -7175,6 +7358,7 @@
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-07-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","*",3
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -7214,6 +7398,7 @@
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-07-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","*",10
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -7253,7 +7438,8 @@
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-08-01 00:00:00","first_app:topfacemobappandroid","*","216,745"
+"2017-07-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-08-01 00:00:00","first_app:topfacemobappandroid","*","216,751"
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -7292,6 +7478,7 @@
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",708
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",579
 "2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",446
+"2017-08-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",361
 "2017-08-01 00:00:00","first_app:topfacemobappios","*","36,375"
 "2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -7331,6 +7518,7 @@
 "2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",190
 "2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",162
 "2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",138
+"2017-08-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",106
 "2017-08-01 00:00:00","first_app:standalonetf","*","1,402"
 "2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -7370,6 +7558,7 @@
 "2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",4
 "2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",1
+"2017-08-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","*",50
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -7409,6 +7598,7 @@
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-08-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","*",4
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -7448,6 +7638,7 @@
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-08-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","*",6
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -7487,7 +7678,8 @@
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-09-01 00:00:00","first_app:topfacemobappandroid","*","206,204"
+"2017-08-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-09-01 00:00:00","first_app:topfacemobappandroid","*","206,211"
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -7526,6 +7718,7 @@
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",844
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",630
 "2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",463
+"2017-09-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",381
 "2017-09-01 00:00:00","first_app:topfacemobappios","*","28,805"
 "2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -7565,6 +7758,7 @@
 "2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",196
 "2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",143
 "2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",107
+"2017-09-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",75
 "2017-09-01 00:00:00","first_app:standalonetf","*","1,357"
 "2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -7604,6 +7798,7 @@
 "2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",2
 "2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",4
 "2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",2
+"2017-09-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",4
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","*",41
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -7643,6 +7838,7 @@
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-09-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","*",0
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -7682,6 +7878,7 @@
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-09-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","*",3
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -7721,7 +7918,8 @@
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2017-10-01 00:00:00","first_app:topfacemobappandroid","*","209,466"
+"2017-09-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2017-10-01 00:00:00","first_app:topfacemobappandroid","*","209,468"
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -7760,7 +7958,8 @@
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",958
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",646
 "2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",472
-"2017-10-01 00:00:00","first_app:topfacemobappios","*","44,302"
+"2017-10-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",400
+"2017-10-01 00:00:00","first_app:topfacemobappios","*","44,303"
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -7799,6 +7998,7 @@
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",495
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",316
 "2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",210
+"2017-10-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",162
 "2017-10-01 00:00:00","first_app:standalonetf","*","1,301"
 "2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -7838,6 +8038,7 @@
 "2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",7
 "2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",7
 "2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",6
+"2017-10-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",4
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","*",36
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -7877,6 +8078,7 @@
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-10-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","*",2
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -7916,6 +8118,7 @@
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-10-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","*",8
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -7955,6 +8158,7 @@
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2017-10-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","*","203,232"
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -7994,6 +8198,7 @@
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total","1,521"
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",841
 "2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",577
+"2017-11-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",463
 "2017-11-01 00:00:00","first_app:topfacemobappios","*","43,222"
 "2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -8033,6 +8238,7 @@
 "2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",930
 "2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",419
 "2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",239
+"2017-11-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",165
 "2017-11-01 00:00:00","first_app:standalonetf","*","1,344"
 "2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -8072,6 +8278,7 @@
 "2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",8
 "2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",6
 "2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",4
+"2017-11-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",5
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","*",45
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -8111,6 +8318,7 @@
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-11-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","*",0
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -8150,6 +8358,7 @@
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-11-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","*",2
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -8189,6 +8398,7 @@
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2017-11-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","*","222,872"
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -8228,6 +8438,7 @@
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total","3,064"
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total","1,582"
 "2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",805
+"2017-12-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",554
 "2017-12-01 00:00:00","first_app:topfacemobappios","*","108,142"
 "2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
@@ -8267,6 +8478,7 @@
 "2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total","4,816"
 "2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total","2,570"
 "2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total","1,000"
+"2017-12-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",658
 "2017-12-01 00:00:00","first_app:standalonetf","*","1,267"
 "2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -8306,6 +8518,7 @@
 "2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",31
 "2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",9
 "2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",4
+"2017-12-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",2
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","*",27
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -8345,6 +8558,7 @@
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",1
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2017-12-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","*",0
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -8384,6 +8598,7 @@
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2017-12-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","*",4
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -8423,6 +8638,7 @@
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2017-12-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","*","201,563"
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -8462,7 +8678,8 @@
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total","2,293"
 "2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total","1,329"
-"2018-01-01 00:00:00","first_app:topfacemobappios","*","107,827"
+"2018-01-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",749
+"2018-01-01 00:00:00","first_app:topfacemobappios","*","107,829"
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -8501,6 +8718,7 @@
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total","4,717"
 "2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total","1,582"
+"2018-01-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",909
 "2018-01-01 00:00:00","first_app:standalonetf","*","1,244"
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -8540,6 +8758,7 @@
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",35
 "2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",15
+"2018-01-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",5
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","*",46
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -8579,6 +8798,7 @@
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",3
 "2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
+"2018-01-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","*",2
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -8618,6 +8838,7 @@
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2018-01-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","*",5
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -8657,6 +8878,7 @@
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2018-01-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","*","250,206"
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
@@ -8696,7 +8918,8 @@
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total","3,423"
-"2018-02-01 00:00:00","first_app:topfacemobappios","*","129,026"
+"2018-02-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total","1,939"
+"2018-02-01 00:00:00","first_app:topfacemobappios","*","129,025"
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -8735,6 +8958,7 @@
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total","5,903"
+"2018-02-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total","2,653"
 "2018-02-01 00:00:00","first_app:standalonetf","*",797
 "2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
@@ -8774,6 +8998,7 @@
 "2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",19
+"2018-02-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",12
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","*",33
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
@@ -8813,6 +9038,7 @@
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",1
+"2018-02-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","*",2
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -8852,6 +9078,7 @@
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2018-02-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","*",3
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
@@ -8891,7 +9118,8 @@
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
-"2018-03-01 00:00:00","first_app:topfacemobappandroid","*","1,443"
+"2018-02-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2018-03-01 00:00:00","first_app:topfacemobappandroid","*","253,343"
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
@@ -8930,7 +9158,8 @@
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
-"2018-03-01 00:00:00","first_app:topfacemobappios","*",480
+"2018-03-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total","2,897"
+"2018-03-01 00:00:00","first_app:topfacemobappios","*","108,031"
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
@@ -8969,7 +9198,8 @@
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",0
-"2018-03-01 00:00:00","first_app:standalonetf","*",1
+"2018-03-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total","4,324"
+"2018-03-01 00:00:00","first_app:standalonetf","*",807
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
@@ -9008,7 +9238,8 @@
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
-"2018-03-01 00:00:00","first_app:topface AND platform:vk","*",0
+"2018-03-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",22
+"2018-03-01 00:00:00","first_app:topface AND platform:vk","*",29
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
@@ -9047,6 +9278,7 @@
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2018-03-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",1
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","*",0
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
@@ -9086,7 +9318,8 @@
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
-"2018-03-01 00:00:00","first_app:topface AND platform:fb","*",0
+"2018-03-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
+"2018-03-01 00:00:00","first_app:topface AND platform:fb","*",1
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
@@ -9125,3 +9358,244 @@
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
 "2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2018-03-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","*",830
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappandroid","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","*",489
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:topfacemobappios","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","*",1
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:standalonetf","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","*",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:vk","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","*",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:ok","_exists_:revenue_in_month.1803.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","*",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1501.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1502.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1503.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1504.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1505.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1506.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1507.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1508.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1509.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1510.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1511.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1512.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1601.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1602.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1603.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1604.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1605.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1606.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1607.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1608.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1609.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1610.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1611.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1612.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1701.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1702.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1703.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1704.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1705.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1706.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1707.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1708.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1709.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1710.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1711.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1712.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1801.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1802.total",0
+"2018-04-01 00:00:00","first_app:topface AND platform:fb","_exists_:revenue_in_month.1803.total",0
