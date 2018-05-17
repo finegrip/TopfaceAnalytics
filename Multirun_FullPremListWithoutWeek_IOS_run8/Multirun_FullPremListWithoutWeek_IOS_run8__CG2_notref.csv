@@ -1,0 +1,517 @@
+"ref ID","partner ID","ref date","user ID","registration date","payment ID","payment date","payment amount","revenue in cents","payment service ID","payment provider",platform,place,country,"last app","Product Id"
+,,,118342592,"2018-05-03 12:19:03",5,"2018-05-03 13:16:58",361,252,67,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118073695,"2018-04-22 06:34:14",4,"2018-04-22 20:07:40",299,209,67,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118322019,"2018-05-02 20:52:11",1,"2018-05-03 19:32:26",361,252,147,"Деньги от iTunes",fb,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118384448,"2018-05-04 22:46:32",9,"2018-05-06 09:50:35",499,349,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118009787,"2018-04-19 00:05:51",1,"2018-04-24 01:36:04",370,259,147,"Деньги от iTunes",st,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,117999395,"2018-04-18 18:43:37",2,"2018-04-24 19:10:33",372,260,147,"Деньги от iTunes",st,none,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118212448,"2018-04-28 14:24:32",12,"2018-05-04 09:27:54",307,214,67,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.likes.1
+,,,117997437,"2018-04-18 17:31:09",9,"2018-04-19 18:49:39",123,86,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118244460,"2018-04-29 22:25:19",24,"2018-05-02 08:33:28",109,76,19,"Деньги от iTunes",fb,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118138199,"2018-04-25 10:38:38",1,"2018-04-26 15:21:20",196,137,147,"Деньги от iTunes",st,FromGuests,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118082662,"2018-04-22 15:43:24",2,"2018-04-22 16:20:30",299,209,67,"Деньги от iTunes",st,FromChatBuyGifts,HT,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118118930,"2018-04-24 07:03:47",6,"2018-04-30 06:39:50",884,618,147,"Деньги от iTunes",st,FromVipTrialPopup,GE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,117999522,"2018-04-18 18:48:48",2,"2018-04-25 22:55:32",299,209,147,"Деньги от iTunes",st,FromMenu,GH,topfacemobappios,com.topface.topface.premium.week.1
+,,,118153027,"2018-04-26 02:14:28",1,"2018-04-26 02:16:08",367,256,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118118930,"2018-04-24 07:03:47",9,"2018-05-07 06:39:51",881,616,147,"Деньги от iTunes",st,FromVipTrialPopup,GE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118173425,"2018-04-26 23:09:29",1,"2018-04-26 23:14:21",197,137,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118055677,"2018-04-21 10:28:19",2,"2018-04-24 10:03:37",299,209,67,"Деньги от iTunes",fb,FromLikes,DE,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118042949,"2018-04-20 18:12:16",3,"2018-04-30 18:25:55",693,485,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118113646,"2018-04-23 22:51:43",2,"2018-04-30 22:52:53",196,137,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,117989243,"2018-04-18 11:54:04",1,"2018-04-18 11:54:19",999,699,147,"Деньги от iTunes",st,,GH,topfacemobappios,com.topface.topface.premium.month.1
+,,,118099788,"2018-04-23 09:48:02",10,"2018-04-25 18:30:18",299,209,67,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118106123,"2018-04-23 16:36:01",4,"2018-05-04 22:38:03",280,271,19,"Деньги от Ninja",st,sympathy_access,RU,topfacemobappandroid,coin.two
+,,,117999522,"2018-04-18 18:48:48",3,"2018-05-02 22:56:08",299,209,147,"Деньги от iTunes",st,FromMenu,GH,topfacemobappios,com.topface.topface.premium.week.1
+,,,118136901,"2018-04-25 08:41:24",1,"2018-04-25 09:49:11",195,136,147,"Деньги от iTunes",st,FromMenu,MZ,topfacemobappios,com.topface.topface.premium.week.1
+,,,118201403,"2018-04-28 01:25:52",1,"2018-04-28 01:27:35",668,467,147,"Деньги от iTunes",fb,FromGuests,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118039338,"2018-04-20 14:23:56",2,"2018-04-23 14:59:09",854,597,147,"Деньги от iTunes",fb,FromVipTrialPopup,TH,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-25 00:15:00",118132560,"2018-04-25 00:15:00",17,"2018-04-30 17:35:58",1254,877,19,"Деньги от iTunes",st,FromLikes,SE,topfacemobappios,com.topface.topface.buy.coins.100
+597,12,"2018-04-23 21:36:25",118112035,"2018-04-23 21:36:25",4,"2018-04-23 22:10:38",370,259,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,117990101,"2018-04-18 12:35:08",2,"2018-04-19 00:35:29",995,696,147,"Деньги от Google Play",st,TrialVipPopup,TR,topfacemobappandroid,com.topface.topface.sub.trial.vip.month.13.3daysfree
+,,,118159512,"2018-04-26 10:55:32",1,"2018-04-26 11:03:09",299,209,147,"Деньги от iTunes",fb,FromMenu,JO,topfacemobappios,com.topface.topface.premium.week.1
+,,,118135249,"2018-04-25 05:33:22",1,"2018-04-25 05:54:12",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-22 12:58:05",118079476,"2018-04-22 12:58:05",11,"2018-04-29 11:27:06",64,62,127,"Деньги от Ninja",st,coins_popup_navigation,RU,topfacemobappios,coin.one
+,,,118068349,"2018-04-21 23:04:20",6,"2018-05-01 23:11:21",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,LR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118111086,"2018-04-23 20:53:32",2,"2018-04-23 20:56:35",499,349,19,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118446317,"2018-05-06 21:18:58",1,"2018-05-07 00:29:47",1000,700,147,"Деньги от iTunes",fb,FromGuests,CH,topfacemobappios,com.topface.topface.premium.month.1
+,,,118108955,"2018-04-23 19:10:14",1,"2018-04-24 01:58:29",195,136,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118178595,"2018-04-27 05:37:14",1,"2018-04-28 18:11:54",293,205,147,"Деньги от iTunes",st,FromMenu,PE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118135249,"2018-04-25 05:33:22",2,"2018-04-25 06:20:33",299,209,67,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.likes.1
+597,12,"2018-04-22 12:58:05",118079476,"2018-04-22 12:58:05",17,"2018-05-04 19:50:08",64,62,19,"Деньги от Ninja",st,coins_popup_navigation,RU,topfacemobappios,coin.one
+,,,118027784,"2018-04-19 21:46:21",13,"2018-04-21 23:55:04",1220,854,19,"Деньги от iTunes",vk,FromMenu,RU,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118142424,"2018-04-25 16:13:27",1,"2018-04-25 16:15:09",857,599,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118347407,"2018-05-03 16:22:53",1,"2018-05-03 16:29:20",642,449,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118272027,"2018-05-01 02:21:16",1,"2018-05-01 02:30:30",1100,770,147,"Деньги от iTunes",fb,FromMenu,GB,topfacemobappios,com.topface.topface.premium.month.1
+,,,118059703,"2018-04-21 15:25:45",1,"2018-04-21 15:42:24",1130,791,147,"Деньги от iTunes",fb,FromMenu,IL,topfacemobappios,com.topface.topface.premium.month.1
+,,,118271429,"2018-05-01 01:33:41",17,"2018-05-04 21:25:58",366,256,67,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118242411,"2018-04-29 20:51:55",4,"2018-05-05 21:41:43",299,209,67,"Деньги от iTunes",fb,FromLikes,AE,topfacemobappios,com.topface.topface.buy.likes.1
+597,12,"2018-04-25 00:15:00",118132560,"2018-04-25 00:15:00",4,"2018-04-27 00:55:23",1258,880,147,"Деньги от iTunes",st,VipDelivery,SE,topfacemobappios,com.topface.topface.premium.month.1
+9586,33,"2018-04-20 23:02:43",118046846,"2018-04-20 21:32:44",2,"2018-04-27 21:36:13",362,253,147,"Деньги от iTunes",fb,FromMenu,FR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118221392,"2018-04-28 22:16:06",1,"2018-04-29 11:31:46",299,209,147,"Деньги от iTunes",st,VipDelivery,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118359612,"2018-05-04 00:53:21",2,"2018-05-07 00:56:01",904,632,147,"Деньги от iTunes",fb,FromVipTrialPopup,AU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118068019,"2018-04-21 22:48:52",2,"2018-04-24 22:51:10",918,642,147,"Деньги от iTunes",st,FromVipTrialPopup,CL,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118355203,"2018-05-03 21:52:16",5,"2018-05-07 02:58:58",965,675,19,"Деньги от iTunes",st,FromGuests,PH,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118318828,"2018-05-02 19:29:27",1,"2018-05-02 19:35:11",651,455,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118368241,"2018-05-04 11:24:02",1,"2018-05-04 11:57:12",299,209,147,"Деньги от iTunes",fb,FromMenu,CA,topfacemobappios,com.topface.topface.premium.week.1
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",38,"2018-05-05 22:48:42",283,198,147,"Деньги от iTunes",st,FromGuests,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118139489,"2018-04-25 12:34:25",4,"2018-05-06 00:30:06",189,132,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118011508,"2018-04-19 01:56:29",2,"2018-04-26 02:15:01",299,209,147,"Деньги от iTunes",st,FromMenu,TZ,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 13:34:54",118307294,"2018-05-02 13:34:54",7,"2018-05-03 15:46:28",123,28,19,"Деньги от Fortumo (web)",vk,coins_popup_rate_ten,BY,topfacemobappios,coin.one
+,,,118170843,"2018-04-26 21:14:20",1,"2018-04-29 17:07:21",999,699,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.month.1
+,,,118238168,"2018-04-29 17:03:28",4,"2018-05-02 17:05:14",862,603,147,"Деньги от iTunes",fb,FromVipTrialPopup,GB,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118127552,"2018-04-24 19:03:40",3,"2018-05-01 20:50:07",260,182,147,"Деньги от iTunes",st,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+,,,118226003,"2018-04-29 03:14:28",2,"2018-04-29 05:49:59",299,209,67,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118207536,"2018-04-28 09:43:34",17,"2018-05-01 23:56:43",361,252,67,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118200901,"2018-04-28 00:51:48",2,"2018-05-01 00:52:35",1031,721,147,"Деньги от iTunes",st,FromVipTrialPopup,GB,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118089200,"2018-04-22 20:53:40",8,"2018-05-02 21:48:57",799,559,147,"Деньги от iTunes",vk,FromVipTrialPopup,UA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,117997437,"2018-04-18 17:31:09",17,"2018-05-02 19:08:06",360,251,147,"Деньги от iTunes",st,FromProfile,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118043516,"2018-04-20 18:44:24",2,"2018-04-30 13:16:44",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118044220,"2018-04-20 19:24:10",13,"2018-05-04 15:59:30",297,207,147,"Деньги от iTunes",st,PopularUserBlockDialog,CO,topfacemobappios,com.topface.topface.premium.week.1
+,,,118186213,"2018-04-27 13:43:24",5,"2018-05-04 14:06:53",187,130,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,117991582,"2018-04-18 13:44:07",1,"2018-04-18 13:52:37",288,201,147,"Деньги от iTunes",st,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118421762,"2018-05-06 05:07:54",1,"2018-05-06 05:10:28",310,217,147,"Деньги от iTunes",st,FromMenu,GB,topfacemobappios,com.topface.topface.premium.week.1
+,,,118211123,"2018-04-28 13:03:57",5,"2018-05-01 20:51:37",99,69,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118087363,"2018-04-22 19:30:14",1,"2018-04-22 20:48:13",264,184,147,"Деньги от iTunes",st,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+,,,118300915,"2018-05-02 09:25:51",4,"2018-05-04 08:32:06",364,254,67,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118021088,"2018-04-19 14:58:30",3,"2018-05-03 15:01:06",190,133,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118108955,"2018-04-23 19:10:14",4,"2018-04-29 22:12:23",321,224,67,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118006596,"2018-04-18 22:23:10",5,"2018-05-02 22:26:02",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118424914,"2018-05-06 07:59:40",1,"2018-05-06 14:00:33",119,83,19,"Деньги от iTunes",fb,,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118177846,"2018-04-27 04:31:41",2,"2018-04-27 05:52:59",101,70,19,"Деньги от iTunes",fb,FromBuyLeader,MX,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118164792,"2018-04-26 16:22:31",12,"2018-04-27 13:01:34",112,56,19,Голоса,vk,coins_widget_57_3,RU,topfacemobappios,coin.two
+,,,91210310,"2015-01-19 11:49:58",15,"2016-12-14 17:30:52",-1,2,0,"Деньги от FB",st,"REFUND Деньги от FB",RU,standalonetf,
+,,,118207810,"2018-04-28 10:00:11",1,"2018-04-28 11:30:14",121,84,19,"Деньги от iTunes",st,FromProfileBuyGiftsunique,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,91210310,"2015-01-19 11:49:58",16,"2016-12-14 17:35:18",-4900,49,0,"Деньги от Ninja",st,"REFUND Деньги от Ninja",RU,standalonetf,
+,,,118304586,"2018-05-02 11:52:59",2,"2018-05-05 11:54:03",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,ES,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118099788,"2018-04-23 09:48:02",6,"2018-04-25 18:29:52",99,69,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118002319,"2018-04-18 20:22:00",4,"2018-05-06 22:17:46",131,91,19,"Деньги от iTunes",fb,FromLikes,LV,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118082662,"2018-04-22 15:43:24",3,"2018-04-22 16:21:45",2499,1749,19,"Деньги от iTunes",st,FromProfileBuyGiftsunique,HT,topfacemobappios,com.topface.topface.buy.coins.300
+,,,118202796,"2018-04-28 03:24:05",5,"2018-05-04 01:00:40",301,210,67,"Деньги от iTunes",st,FromLikes,HT,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118171118,"2018-04-26 21:25:40",5,"2018-04-27 16:47:34",499,349,19,"Деньги от iTunes",st,FromLikes,AE,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118159572,"2018-04-26 10:58:52",5,"2018-05-05 12:32:41",364,254,147,"Деньги от iTunes",st,PopularUserBlockDialog,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118032376,"2018-04-20 04:21:13",1,"2018-04-25 21:11:08",301,210,147,"Деньги от iTunes",fb,VipDelivery,CO,topfacemobappios,com.topface.topface.premium.week.1
+,,,117999395,"2018-04-18 18:43:37",3,"2018-05-01 19:10:34",362,253,147,"Деньги от iTunes",st,none,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118360204,"2018-05-04 01:36:30",1,"2018-05-04 01:36:44",363,254,147,"Деньги от iTunes",st,,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118138966,"2018-04-25 11:46:48",1,"2018-04-25 12:39:11",283,198,147,"Деньги от iTunes",fb,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-24 22:52:51",118131291,"2018-04-24 22:52:51",10,"2018-04-25 23:57:56",280,142,147,Голоса,vk,super_express_message,IL,topfacemobappios,
+,,,118094953,"2018-04-23 01:58:03",17,"2018-04-30 18:02:11",365,255,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118020161,"2018-04-19 13:57:05",1,"2018-04-19 14:54:58",198,138,147,"Деньги от iTunes",fb,FromGuests,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118247011,"2018-04-30 00:32:09",1,"2018-04-30 00:32:21",852,596,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118300915,"2018-05-02 09:25:51",7,"2018-05-05 09:56:58",364,254,147,"Деньги от iTunes",st,VipDelivery,RU,topfacemobappios,com.topface.topface.premium.week.1
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",30,"2018-04-28 22:48:42",284,198,147,"Деньги от iTunes",st,FromGuests,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118018257,"2018-04-19 11:49:16",1,"2018-04-20 19:50:57",372,260,147,"Деньги от iTunes",vk,FromGuests,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118001324,"2018-04-18 19:50:34",1,"2018-04-22 17:53:53",319,223,67,"Деньги от iTunes",st,FromProfileBuyGiftsunique,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118241643,"2018-04-29 20:14:35",2,"2018-05-02 20:17:14",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118273912,"2018-05-01 05:32:32",2,"2018-05-04 05:35:24",883,618,147,"Деньги от iTunes",fb,FromVipTrialPopup,IN,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118004229,"2018-04-18 21:18:41",1,"2018-04-18 21:52:21",316,221,147,"Деньги от iTunes",fb,FromMenu,CA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118343973,"2018-05-03 13:29:38",4,"2018-05-07 02:12:04",907,634,147,"Деньги от iTunes",vk,none,EG,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118248690,"2018-04-30 02:40:18",1,"2018-05-04 07:43:59",299,209,147,"Деньги от iTunes",st,VipDelivery,UY,topfacemobappios,com.topface.topface.premium.week.1
+,,,118314980,"2018-05-02 17:43:46",1,"2018-05-03 07:35:00",359,251,147,"Деньги от iTunes",st,FromMenu,FR,topfacemobappios,com.topface.topface.premium.week.1
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",19,"2018-04-24 05:08:20",119,83,19,"Деньги от iTunes",st,FromLikes,IN,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118225353,"2018-04-29 02:03:48",1,"2018-05-02 01:59:13",999,699,147,"Деньги от iTunes",st,,US,topfacemobappandroid,com.topface.topface.premium.month.1
+,,,118068349,"2018-04-21 23:04:20",3,"2018-04-23 01:16:51",99,69,19,"Деньги от iTunes",st,FromGuests,LR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118009787,"2018-04-19 00:05:51",14,"2018-04-27 22:09:53",369,258,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118186213,"2018-04-27 13:43:24",1,"2018-04-27 14:06:58",197,137,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 13:34:54",118307294,"2018-05-02 13:34:54",13,"2018-05-05 04:12:18",124,28,19,"Деньги от Fortumo (web)",vk,sympathy_access,BY,topfacemobappios,coin.one
+597,12,"2018-04-29 22:52:07",118245046,"2018-04-29 22:52:07",2,"2018-04-29 23:12:59",282,273,19,"Деньги от Ninja",st,sympathy_access,RU,topfacemobappios,coin.two
+,,,118033922,"2018-04-20 07:26:27",4,"2018-04-20 07:31:36",305,213,67,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118026327,"2018-04-19 20:33:55",1,"2018-04-19 20:36:55",869,608,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118039338,"2018-04-20 14:23:56",3,"2018-04-30 14:59:09",853,597,147,"Деньги от iTunes",fb,FromVipTrialPopup,TH,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118423056,"2018-05-06 06:27:11",1,"2018-05-06 06:53:23",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118213703,"2018-04-28 15:39:50",7,"2018-05-04 02:02:34",299,209,67,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118099788,"2018-04-23 09:48:02",12,"2018-05-03 09:56:02",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118005233,"2018-04-18 21:45:53",1,"2018-04-18 22:32:33",199,139,147,"Деньги от iTunes",st,FromMenu,UG,topfacemobappios,com.topface.topface.premium.week.1
+,,,118379332,"2018-05-04 19:50:18",4,"2018-05-04 19:53:56",364,254,67,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118249610,"2018-04-30 04:08:12",4,"2018-05-07 04:19:37",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118182035,"2018-04-27 09:29:59",1,"2018-04-27 09:30:55",799,559,147,"Деньги от iTunes",st,,CR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118082452,"2018-04-22 15:32:29",6,"2018-05-07 01:25:24",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118079843,"2018-04-22 13:19:16",12,"2018-04-25 14:42:14",857,599,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118397257,"2018-05-05 10:31:28",2,"2018-05-05 10:44:23",373,261,67,"Деньги от iTunes",fb,FromFollowers,IN,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118307576,"2018-05-02 13:45:45",1,"2018-05-03 18:57:20",283,198,147,"Деньги от iTunes",st,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118174662,"2018-04-27 00:13:16",2,"2018-04-27 01:01:44",99,69,19,"Деньги от iTunes",st,FromLikes,LB,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118338550,"2018-05-03 08:46:27",3,"2018-05-03 08:53:31",648,453,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118155104,"2018-04-26 05:38:29",4,"2018-04-27 23:04:34",369,258,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+597,12,"2018-04-29 22:52:07",118245046,"2018-04-29 22:52:07",12,"2018-05-04 23:16:29",120,84,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118108955,"2018-04-23 19:10:14",22,"2018-05-03 12:37:05",107,74,19,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118446317,"2018-05-06 21:18:58",2,"2018-05-07 00:30:36",300,210,67,"Деньги от iTunes",fb,FromFollowers,CH,topfacemobappios,com.topface.topface.buy.likes.1
+9556,63,"2018-04-18 11:25:46",117988629,"2018-04-18 11:25:45",12,"2018-04-22 15:56:09",259,181,147,"Деньги от iTunes",fb,VipDelivery,PK,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-30 08:19:38",118252825,"2018-04-30 08:19:37",4,"2018-05-07 08:23:01",365,255,147,"Деньги от iTunes",fb,FromMenu,RU,standalonetf,com.topface.topface.premium.week.1
+,,,118428545,"2018-05-06 10:33:02",1,"2018-05-06 10:43:06",310,217,147,"Деньги от iTunes",st,FromGuests,CA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118345709,"2018-05-03 14:55:17",6,"2018-05-04 18:16:24",1190,833,19,"Деньги от iTunes",ok,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118005621,"2018-04-18 21:57:25",11,"2018-04-22 00:00:53",319,223,67,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118010336,"2018-04-19 00:32:06",5,"2018-04-26 09:48:09",110,77,19,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118106123,"2018-04-23 16:36:01",2,"2018-04-26 16:42:25",845,591,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappandroid,com.topface.topface.premium.trial.weekly.0799
+,,,118407932,"2018-05-05 18:41:15",1,"2018-05-05 18:42:06",364,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118212448,"2018-04-28 14:24:32",1,"2018-04-28 14:36:52",667,466,147,"Деньги от iTunes",st,FromMyProfile,UA,topfacemobappios,com.topface.topface.premium.month.1
+597,12,"2018-04-24 22:52:51",118131291,"2018-04-24 22:52:51",5,"2018-04-24 23:05:27",500,485,19,"Деньги от Ninja",vk,sympathy_access,IL,topfacemobappios,coin.two
+,,,118073695,"2018-04-22 06:34:14",1,"2018-04-22 07:09:01",299,209,147,"Деньги от iTunes",st,FromMyProfile,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118245878,"2018-04-29 23:33:27",1,"2018-04-29 23:35:02",369,258,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118029529,"2018-04-19 23:20:10",4,"2018-05-06 23:21:38",840,588,147,"Деньги от iTunes",ok,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118438116,"2018-05-06 17:10:16",1,"2018-05-06 17:17:20",299,209,147,"Деньги от iTunes",st,FromGuests,GB,topfacemobappios,com.topface.topface.premium.week.1
+,,,118344345,"2018-05-03 13:47:49",2,"2018-05-06 13:50:22",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118326759,"2018-05-02 22:51:48",1,"2018-05-02 23:02:34",358,250,147,"Деньги от iTunes",st,FromGuests,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118018224,"2018-04-19 11:46:53",12,"2018-05-06 07:50:52",364,254,147,"Деньги от iTunes",ok,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 14:13:36",118308377,"2018-05-02 14:13:35",5,"2018-05-04 23:52:53",366,256,147,"Деньги от iTunes",st,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118108955,"2018-04-23 19:10:14",15,"2018-05-03 12:35:40",107,74,19,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118029529,"2018-04-19 23:20:10",3,"2018-04-29 23:21:38",851,595,147,"Деньги от iTunes",ok,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118227711,"2018-04-29 06:16:43",1,"2018-04-29 12:58:52",274,191,147,"Деньги от iTunes",fb,FromGuests,QA,standalonetf,com.topface.topface.premium.week.1
+,,,118103845,"2018-04-23 14:25:03",1,"2018-04-23 16:06:38",99,69,19,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118075520,"2018-04-22 08:54:32",2,"2018-05-02 18:07:01",360,251,147,"Деньги от iTunes",st,VipDelivery,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118177356,"2018-04-27 03:43:00",1,"2018-04-27 03:45:15",999,699,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118082452,"2018-04-22 15:32:29",4,"2018-04-30 01:25:23",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118242411,"2018-04-29 20:51:55",2,"2018-05-03 19:17:18",299,209,67,"Деньги от iTunes",fb,FromLikes,AE,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118207810,"2018-04-28 10:00:11",5,"2018-04-28 23:02:51",369,258,147,"Деньги от iTunes",st,FromGuests,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118019919,"2018-04-19 13:39:51",3,"2018-04-29 17:32:08",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,QA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118087601,"2018-04-22 19:41:31",1,"2018-04-23 13:19:28",299,209,67,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,117993880,"2018-04-18 15:12:44",10,"2018-05-04 15:50:43",283,198,147,"Деньги от iTunes",st,VipDelivery,IN,standalonetf,com.topface.topface.premium.week.1
+,,,118271429,"2018-05-01 01:33:41",14,"2018-05-04 01:37:43",840,588,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118049380,"2018-04-20 23:41:28",1,"2018-04-21 07:43:13",373,261,147,"Деньги от iTunes",fb,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118093359,"2018-04-23 00:09:30",3,"2018-05-05 08:35:06",662,463,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118011988,"2018-04-19 02:34:46",3,"2018-04-27 12:17:26",843,590,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118007864,"2018-04-18 22:57:46",2,"2018-04-25 07:13:35",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118349035,"2018-05-03 17:42:50",1,"2018-05-03 17:45:25",358,250,147,"Деньги от iTunes",st,FromGuests,IT,topfacemobappios,com.topface.topface.premium.week.1
+,,,117997437,"2018-04-18 17:31:09",16,"2018-04-25 19:07:16",368,257,147,"Деньги от iTunes",st,FromProfile,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118254863,"2018-04-30 10:50:55",3,"2018-05-01 13:03:29",99,69,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.6
+,,,91210310,"2015-01-19 11:49:58",14,"2016-12-14 16:16:18",-17,11,0,"Деньги от PaymentWall (mobile)",st,"REFUND Деньги от PaymentWall (mobile)",RU,standalonetf,
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",10,"2018-04-21 22:48:46",285,199,147,"Деньги от iTunes",st,FromGuests,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118214068,"2018-04-28 16:01:15",1,"2018-04-28 16:13:45",363,254,147,"Деньги от iTunes",st,FromMenu,IT,topfacemobappios,com.topface.topface.premium.week.1
+,,,117997437,"2018-04-18 17:31:09",1,"2018-04-18 18:05:45",122,85,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118155104,"2018-04-26 05:38:29",1,"2018-04-26 20:58:10",366,256,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118254863,"2018-04-30 10:50:55",5,"2018-05-01 13:03:48",299,209,67,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118033922,"2018-04-20 07:26:27",2,"2018-04-20 07:31:09",499,349,19,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118218805,"2018-04-28 20:21:03",2,"2018-04-28 21:45:53",544,380,19,"Деньги от iTunes",st,FromBuyLeader,IR,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118145726,"2018-04-25 19:35:22",2,"2018-04-28 19:36:47",1031,721,147,"Деньги от iTunes",st,FromVipTrialPopup,DE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118213703,"2018-04-28 15:39:50",4,"2018-04-29 16:06:43",299,209,67,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118177846,"2018-04-27 04:31:41",1,"2018-04-27 05:52:23",261,182,147,"Деньги от iTunes",fb,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+,,,118094953,"2018-04-23 01:58:03",1,"2018-04-23 20:53:59",1210,847,147,"Деньги от iTunes",st,VipDelivery,RU,topfacemobappios,com.topface.topface.premium.month.1
+,,,118287447,"2018-05-01 19:37:01",2,"2018-05-04 19:38:31",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,DE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118264624,"2018-04-30 20:20:58",5,"2018-05-01 12:04:04",132,92,19,"Деньги от iTunes",st,FromChatBuyGifts,LV,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118099788,"2018-04-23 09:48:02",11,"2018-04-26 09:56:05",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118252666,"2018-04-30 08:06:47",1,"2018-04-30 08:12:23",197,137,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118267178,"2018-04-30 22:02:37",2,"2018-05-01 16:02:21",196,137,147,"Деньги от iTunes",fb,none,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118096296,"2018-04-23 04:11:36",1,"2018-04-23 04:21:24",299,209,147,"Деньги от iTunes",st,FromMyProfile,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118005233,"2018-04-18 21:45:53",2,"2018-04-25 22:32:31",195,136,147,"Деньги от iTunes",st,FromMenu,UG,topfacemobappios,com.topface.topface.premium.week.1
+,,,118108955,"2018-04-23 19:10:14",9,"2018-05-01 13:12:53",318,222,67,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118436684,"2018-05-06 16:18:53",2,"2018-05-06 16:36:11",119,83,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118207536,"2018-04-28 09:43:34",10,"2018-04-29 12:21:26",369,258,67,"Деньги от iTunes",vk,FromMenu,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118376680,"2018-05-04 18:03:17",1,"2018-05-04 19:04:45",634,443,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118164551,"2018-04-26 16:07:38",1,"2018-04-26 16:15:16",101,70,19,"Деньги от iTunes",st,FromProfileBuyGiftsunique,MX,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118233126,"2018-04-29 12:17:37",1,"2018-04-29 12:31:07",363,254,147,"Деньги от iTunes",st,FromGuests,FR,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-24 16:37:03",118125559,"2018-04-24 16:37:03",2,"2018-04-24 17:35:51",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118186046,"2018-04-27 13:33:59",1,"2018-04-27 13:49:57",299,209,147,"Деньги от iTunes",st,FromMenu,DE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118010336,"2018-04-19 00:32:06",1,"2018-04-21 09:08:16",319,223,67,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118155614,"2018-04-26 06:20:25",2,"2018-04-29 06:21:18",800,560,147,"Деньги от iTunes",fb,FromVipTrialPopup,MX,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118379332,"2018-05-04 19:50:18",2,"2018-05-04 19:53:43",1190,833,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118077025,"2018-04-22 10:40:14",2,"2018-05-05 07:00:11",305,213,147,"Деньги от iTunes",fb,VipDelivery,BG,topfacemobappios,com.topface.topface.premium.week.1
+,,,118132278,"2018-04-24 23:54:42",7,"2018-05-03 20:01:32",834,583,147,"Деньги от iTunes",st,none,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118153254,"2018-04-26 02:36:16",2,"2018-04-29 02:38:00",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118036782,"2018-04-20 11:25:36",1,"2018-04-20 11:27:55",916,641,147,"Деньги от iTunes",fb,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118178595,"2018-04-27 05:37:14",7,"2018-05-05 18:11:52",290,203,147,"Деньги от iTunes",st,FromMenu,PE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118132278,"2018-04-24 23:54:42",4,"2018-04-26 20:01:32",845,591,147,"Деньги от iTunes",st,none,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118234178,"2018-04-29 13:17:09",1,"2018-04-29 13:39:18",299,209,147,"Деньги от iTunes",st,FromMenu,US,standalonetf,com.topface.topface.premium.week.1
+,,,118138001,"2018-04-25 10:19:31",2,"2018-05-02 10:22:15",195,165,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118288909,"2018-05-01 20:41:56",2,"2018-05-01 21:11:02",99,69,19,"Деньги от iTunes",st,FromMenu,US,standalonetf,com.topface.topface.buy.coins.6
+,,,118011508,"2018-04-19 01:56:29",1,"2018-04-19 02:15:02",299,209,147,"Деньги от iTunes",st,FromMenu,TZ,topfacemobappios,com.topface.topface.premium.week.1
+,,,118364203,"2018-05-04 07:10:28",1,"2018-05-04 07:17:22",302,211,147,"Деньги от iTunes",fb,FromMenu,MY,topfacemobappios,com.topface.topface.premium.week.1
+,,,118267178,"2018-04-30 22:02:37",1,"2018-04-30 22:02:57",196,137,147,"Деньги от iTunes",fb,,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118084945,"2018-04-22 17:35:32",13,"2018-05-02 17:36:41",1020,714,147,"Деньги от iTunes",st,FromVipTrialPopup,DE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118338889,"2018-05-03 09:06:13",2,"2018-05-06 09:07:34",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,QA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-24 22:52:51",118131291,"2018-04-24 22:52:51",16,"2018-05-03 17:59:28",328,229,147,"Деньги от iTunes",vk,FromMenu,IL,topfacemobappios,com.topface.topface.premium.week.1
+,,,118068349,"2018-04-21 23:04:20",5,"2018-04-24 23:11:21",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,LR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118018257,"2018-04-19 11:49:16",10,"2018-04-23 19:36:43",121,84,19,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118007864,"2018-04-18 22:57:46",3,"2018-05-02 07:13:35",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118242411,"2018-04-29 20:51:55",9,"2018-05-07 08:30:54",299,209,67,"Деньги от iTunes",fb,FromLikes,AE,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118069787,"2018-04-22 00:24:37",8,"2018-05-02 00:26:30",683,478,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118381670,"2018-05-04 21:12:08",1,"2018-05-05 02:19:10",999,699,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+9586,33,"2018-04-20 23:02:43",118046846,"2018-04-20 21:32:44",3,"2018-05-04 21:36:12",358,250,147,"Деньги от iTunes",fb,FromMenu,FR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118050737,"2018-04-21 01:21:01",3,"2018-04-24 01:22:06",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118160518,"2018-04-26 12:04:43",1,"2018-04-26 12:04:57",799,559,147,"Деньги от iTunes",st,,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118149527,"2018-04-25 22:36:47",1,"2018-04-28 22:57:22",369,258,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-06 12:13:53",118430800,"2018-05-06 12:13:53",6,"2018-05-06 14:32:19",299,209,147,"Деньги от iTunes",vk,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-22 12:58:05",118079476,"2018-04-22 12:58:05",14,"2018-04-29 11:27:23",64,62,127,"Деньги от Ninja",st,coins_popup_navigation,RU,topfacemobappios,coin.one
+,,,118362616,"2018-05-04 05:20:02",2,"2018-05-07 05:24:23",661,462,147,"Деньги от iTunes",st,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118164792,"2018-04-26 16:22:31",3,"2018-04-26 23:12:47",447,225,147,Голоса,vk,experimentAdmirations8-1,RU,topfacemobappios,
+,,,118044157,"2018-04-20 19:21:21",2,"2018-04-23 19:22:33",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,DZ,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118077025,"2018-04-22 10:40:14",1,"2018-04-28 07:00:14",309,216,147,"Деньги от iTunes",fb,VipDelivery,BG,topfacemobappios,com.topface.topface.premium.week.1
+,,,118171118,"2018-04-26 21:25:40",1,"2018-04-26 21:34:07",299,209,147,"Деньги от iTunes",st,FromProfile,AE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118149120,"2018-04-25 22:18:07",3,"2018-05-05 22:19:07",840,588,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118009787,"2018-04-19 00:05:51",22,"2018-05-03 01:25:33",357,249,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118154654,"2018-04-26 05:00:52",2,"2018-04-30 04:22:32",197,137,147,"Деньги от iTunes",fb,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118084945,"2018-04-22 17:35:32",9,"2018-04-25 17:36:41",1034,723,147,"Деньги от iTunes",st,FromVipTrialPopup,DE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,117993880,"2018-04-18 15:12:44",2,"2018-04-25 08:33:44",284,198,147,"Деньги от iTunes",st,VipDelivery,IN,standalonetf,com.topface.topface.premium.week.1
+597,12,"2018-04-29 22:52:07",118245046,"2018-04-29 22:52:07",7,"2018-05-01 17:44:41",277,269,68,"Деньги от Ninja",st,experimentAdmirations8-1,RU,topfacemobappios,premium.pack7
+,,,118305241,"2018-05-02 12:20:03",1,"2018-05-02 12:22:27",283,198,147,"Деньги от iTunes",fb,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118307056,"2018-05-02 13:26:40",3,"2018-05-05 13:28:55",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,FR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118195245,"2018-04-27 20:49:10",4,"2018-04-29 22:19:44",304,212,67,"Деньги от iTunes",st,FromLikes,CH,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118202133,"2018-04-28 02:27:42",1,"2018-04-28 09:53:56",363,254,147,"Деньги от iTunes",fb,FromMenu,EE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118242411,"2018-04-29 20:51:55",1,"2018-05-03 18:56:20",999,699,147,"Деньги от iTunes",fb,VipDelivery,AE,topfacemobappios,com.topface.topface.premium.month.1
+,,,118428545,"2018-05-06 10:33:02",2,"2018-05-06 15:14:32",108,75,19,"Деньги от iTunes",st,FromBuyLeader,CA,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118044220,"2018-04-20 19:24:10",1,"2018-04-27 15:59:54",302,211,147,"Деньги от iTunes",st,PopularUserBlockDialog,CO,topfacemobappios,com.topface.topface.premium.week.1
+,,,118254863,"2018-04-30 10:50:55",1,"2018-04-30 18:55:08",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-29 03:32:49",118226183,"2018-04-29 03:32:49",3,"2018-04-29 03:55:49",999,699,147,"Деньги от iTunes",st,FromMenu,US,standalonetf,com.topface.topface.premium.month.1
+,,,118436684,"2018-05-06 16:18:53",1,"2018-05-06 16:21:42",364,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118237663,"2018-04-29 16:33:30",1,"2018-04-29 16:39:07",999,699,147,"Деньги от iTunes",st,FromMenu,FR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118019919,"2018-04-19 13:39:51",2,"2018-04-22 17:33:06",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,QA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118357783,"2018-05-03 23:25:38",2,"2018-05-06 23:26:59",860,602,147,"Деньги от iTunes",st,FromVipTrialPopup,MY,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-27 22:57:48",118198575,"2018-04-27 22:57:47",1,"2018-04-27 23:03:10",369,258,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118262946,"2018-04-30 19:01:04",2,"2018-05-04 03:35:07",879,615,147,"Деньги от iTunes",st,FromVipTrialPopup,KR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118079843,"2018-04-22 13:19:16",24,"2018-05-02 14:42:25",832,582,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118338550,"2018-05-03 08:46:27",1,"2018-05-03 08:52:34",1080,756,19,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118002319,"2018-04-18 20:22:00",1,"2018-04-18 20:37:47",370,259,147,"Деньги от iTunes",fb,FromMenu,LV,topfacemobappios,com.topface.topface.premium.week.1
+,,,118204212,"2018-04-28 05:35:42",9,"2018-05-01 05:36:45",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-05-06 12:13:53",118430800,"2018-05-06 12:13:53",3,"2018-05-06 14:31:24",499,349,19,"Деньги от iTunes",vk,FromLikes,UA,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118107035,"2018-04-23 17:26:14",1,"2018-04-23 20:02:15",902,631,147,"Деньги от iTunes",fb,FromMenu,MX,topfacemobappios,com.topface.topface.premium.month.1
+,,,118227414,"2018-04-29 05:49:19",2,"2018-05-04 23:36:50",299,254,147,"Деньги от iTunes",ok,none,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118002319,"2018-04-18 20:22:00",7,"2018-05-06 22:18:13",358,250,147,"Деньги от iTunes",fb,FromMenu,LV,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 06:40:55",118264042,"2018-04-30 19:55:48",1,"2018-05-03 14:20:56",930,651,147,"Деньги от iTunes",fb,VipDelivery,IN,topfacemobappios,com.topface.topface.premium.month.1
+,,,118225412,"2018-04-29 02:10:03",1,"2018-04-30 05:09:30",316,221,67,"Деньги от iTunes",fb,FromMenu,MX,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118207536,"2018-04-28 09:43:34",13,"2018-04-30 14:11:48",365,255,147,"Деньги от iTunes",vk,FromGuests,RU,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-22 00:44:33",118070071,"2018-04-22 00:44:33",2,"2018-04-30 13:14:46",1435,1392,19,"Деньги от Ninja",st,sympathy_access,RU,topfacemobappandroid,coin.four
+,,,118113299,"2018-04-23 22:34:09",1,"2018-04-23 22:37:00",194,135,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118413499,"2018-05-05 22:16:37",1,"2018-05-05 23:06:34",364,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118089200,"2018-04-22 20:53:40",6,"2018-04-25 21:49:11",799,559,147,"Деньги от iTunes",vk,FromVipTrialPopup,UA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118288596,"2018-05-01 20:28:54",2,"2018-05-04 20:33:04",778,544,147,"Деньги от iTunes",fb,FromVipTrialPopup,MX,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118153682,"2018-04-26 03:18:48",1,"2018-05-03 01:25:32",861,602,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118401622,"2018-05-05 14:05:18",1,"2018-05-05 14:08:16",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118277581,"2018-05-01 10:33:01",2,"2018-05-04 10:38:57",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,GB,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118244441,"2018-04-29 22:24:16",8,"2018-05-02 22:25:08",1016,711,147,"Деньги от iTunes",fb,FromVipTrialPopup,EE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118059258,"2018-04-21 14:55:47",3,"2018-05-01 14:57:06",900,630,147,"Деньги от iTunes",fb,FromVipTrialPopup,AU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118247619,"2018-04-30 01:12:00",1,"2018-05-03 00:46:23",191,133,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118141383,"2018-04-25 15:02:40",1,"2018-04-27 11:55:18",120,84,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118006596,"2018-04-18 22:23:10",4,"2018-04-25 22:26:02",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118293723,"2018-05-02 00:23:49",1,"2018-05-02 00:48:22",359,251,147,"Деньги от iTunes",st,FromGuests,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118268445,"2018-04-30 22:53:53",2,"2018-05-07 00:57:08",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,NG,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-05-01 00:01:03",118211345,"2018-04-28 13:16:43",4,"2018-05-04 02:25:06",999,499,68,"Деньги от FB",fb,super_express_message,SE,topfacemobappios,
+,,,118170843,"2018-04-26 21:14:20",5,"2018-05-05 16:01:29",499,349,19,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.coins.40
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",27,"2018-04-28 08:45:30",374,261,67,"Деньги от iTunes",st,FromLikes,IN,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118353574,"2018-05-03 20:54:38",1,"2018-05-03 20:56:25",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118007825,"2018-04-18 22:56:43",3,"2018-05-02 23:41:09",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118033291,"2018-04-20 06:24:31",6,"2018-05-06 20:12:49",189,132,147,"Деньги от iTunes",st,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118085576,"2018-04-22 18:06:37",1,"2018-04-25 16:40:14",299,209,147,"Деньги от iTunes",fb,FromProfile,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118202796,"2018-04-28 03:24:05",1,"2018-05-02 00:47:56",330,230,147,"Деньги от iTunes",st,FromMyProfile,HT,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-24 21:05:50",118129472,"2018-04-24 21:05:50",2,"2018-04-25 11:48:41",568,551,68,"Деньги от Ninja",st,super_popup_profile_menu,RU,standalonetf,premium.pack30
+,,,118106352,"2018-04-23 16:49:24",7,"2018-05-03 19:20:23",358,250,147,"Деньги от iTunes",st,VipDelivery,AT,topfacemobappios,com.topface.topface.premium.week.1
+,,,118290879,"2018-05-01 22:08:27",1,"2018-05-01 22:12:59",299,209,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118161475,"2018-04-26 13:06:04",1,"2018-04-26 13:12:01",1190,833,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.month.1
+,,,118114086,"2018-04-23 23:16:41",3,"2018-05-01 13:35:41",304,212,147,"Деньги от iTunes",ok,FromMenu,KZ,topfacemobappios,com.topface.topface.premium.week.1
+,,,118257586,"2018-04-30 13:43:07",1,"2018-04-30 13:54:16",362,253,147,"Деньги от iTunes",fb,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-20 21:22:05",118046603,"2018-04-20 21:22:05",7,"2018-04-21 18:23:35",429,300,67,"Деньги от iTunes",st,FromLikes,LV,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118148922,"2018-04-25 22:09:49",3,"2018-04-29 01:32:32",1031,721,147,"Деньги от iTunes",st,FromVipTrialPopup,MA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118099675,"2018-04-23 09:39:44",1,"2018-04-23 09:48:37",285,199,147,"Деньги от iTunes",fb,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118226003,"2018-04-29 03:14:28",1,"2018-04-29 03:18:50",999,699,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.month.1
+,,,118106352,"2018-04-23 16:49:24",1,"2018-04-26 19:25:20",365,255,147,"Деньги от iTunes",st,VipDelivery,AT,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-24 16:37:03",118125559,"2018-04-24 16:37:03",4,"2018-05-01 17:35:47",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118019919,"2018-04-19 13:39:51",4,"2018-05-06 17:32:08",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,QA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118000350,"2018-04-18 19:17:56",2,"2018-05-06 04:01:22",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118036440,"2018-04-20 11:02:21",1,"2018-05-02 16:57:08",651,455,147,"Деньги от iTunes",st,FromProfile,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118284302,"2018-05-01 17:05:28",1,"2018-05-01 17:57:17",63,55,19,"Деньги от Paymentwall (web)",st,coins_popup_gift,RU,standalonetf,
+,,,118138966,"2018-04-25 11:46:48",2,"2018-05-02 12:39:09",283,198,147,"Деньги от iTunes",fb,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118066805,"2018-04-21 21:56:32",10,"2018-04-22 19:51:59",373,261,67,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118008841,"2018-04-18 23:30:29",1,"2018-05-01 01:07:08",361,252,147,"Деньги от iTunes",st,FromGuests,IT,topfacemobappios,com.topface.topface.premium.week.1
+,,,118035732,"2018-04-20 10:05:30",3,"2018-04-26 00:08:11",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,UA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-05-07 05:24:38",118460033,"2018-05-07 05:24:38",11,"2018-05-07 06:38:19",499,349,19,"Деньги от iTunes",st,FromLikes,US,standalonetf,com.topface.topface.buy.coins.40
+,,,118368738,"2018-05-04 11:52:19",1,"2018-05-05 13:20:33",189,132,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118428545,"2018-05-06 10:33:02",4,"2018-05-06 15:14:43",108,75,19,"Деньги от iTunes",st,FromBuyLeader,CA,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118381813,"2018-05-04 21:16:42",1,"2018-05-05 09:32:11",283,198,147,"Деньги от iTunes",fb,FromMenu,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118355203,"2018-05-03 21:52:16",2,"2018-05-06 10:32:32",288,201,67,"Деньги от iTunes",st,FromGuests,PH,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118271429,"2018-05-01 01:33:41",12,"2018-05-02 15:57:31",360,251,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118207536,"2018-04-28 09:43:34",1,"2018-04-29 12:11:32",121,84,19,"Деньги от iTunes",vk,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.6
+597,12,"2018-04-22 12:58:05",118079476,"2018-04-22 12:58:05",4,"2018-04-24 22:51:16",285,276,19,"Деньги от Ninja",st,coins_popup_navigation,RU,topfacemobappios,coin.two
+597,12,"2018-04-26 15:15:37",118163639,"2018-04-26 15:15:36",5,"2018-04-27 12:39:52",99,69,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118001389,"2018-04-18 19:52:32",3,"2018-04-25 21:51:51",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,LK,standalonetf,com.topface.topface.premium.trial.weekly.0799
+,,,118036782,"2018-04-20 11:25:36",2,"2018-04-20 11:28:50",536,375,19,"Деньги от iTunes",fb,FromMenu,US,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118225412,"2018-04-29 02:10:03",2,"2018-04-30 05:11:09",263,184,147,"Деньги от iTunes",fb,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+,,,118155614,"2018-04-26 06:20:25",3,"2018-05-06 06:21:18",773,541,147,"Деньги от iTunes",fb,FromVipTrialPopup,MX,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118050452,"2018-04-21 00:53:34",1,"2018-04-21 10:41:12",196,137,147,"Деньги от iTunes",st,FromGuests,TR,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 13:34:54",118307294,"2018-05-02 13:34:54",10,"2018-05-03 15:51:59",123,28,19,"Деньги от Fortumo (web)",vk,sympathy_access,BY,topfacemobappios,coin.one
+,,,118288909,"2018-05-01 20:41:56",6,"2018-05-05 14:26:28",500,485,19,"Деньги от Ninja",st,coinsPopupFrom51-1,US,standalonetf,coin.two
+,,,118071914,"2018-04-22 03:32:38",4,"2018-04-22 20:09:27",122,85,19,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",4,"2018-04-21 22:46:29",119,83,19,"Деньги от iTunes",st,FromLikes,IN,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118245662,"2018-04-29 23:22:21",1,"2018-05-01 01:42:05",197,137,147,"Деньги от iTunes",st,FromGuests,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118050452,"2018-04-21 00:53:34",26,"2018-04-24 00:08:41",316,221,67,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118278896,"2018-05-01 11:59:57",2,"2018-05-04 12:10:48",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,UA,standalonetf,com.topface.topface.premium.trial.weekly.0799
+,,,118009787,"2018-04-19 00:05:51",23,"2018-05-06 15:41:43",364,254,147,"Деньги от iTunes",st,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118044157,"2018-04-20 19:21:21",3,"2018-04-30 19:22:33",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,DZ,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-25 00:15:00",118132560,"2018-04-25 00:15:00",8,"2018-04-27 17:14:43",115,80,19,"Деньги от iTunes",st,FromBuyLeader,SE,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118173892,"2018-04-26 23:32:09",1,"2018-04-27 02:42:56",999,699,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappandroid,com.topface.topface.premium.month.1
+,,,118115378,"2018-04-24 00:31:36",2,"2018-04-27 22:27:54",666,466,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118271429,"2018-05-01 01:33:41",13,"2018-05-03 18:19:10",361,252,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118202833,"2018-04-28 03:27:14",2,"2018-05-01 03:29:08",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118102359,"2018-04-23 12:53:28",10,"2018-04-25 15:27:13",122,85,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118058561,"2018-04-21 14:05:51",2,"2018-04-30 06:22:30",306,214,147,"Деньги от iTunes",st,FromGuests,KZ,topfacemobappios,com.topface.topface.premium.week.1
+,,,118132278,"2018-04-24 23:54:42",1,"2018-04-24 23:54:48",861,602,147,"Деньги от iTunes",st,,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118174662,"2018-04-27 00:13:16",4,"2018-04-29 01:08:21",99,69,19,"Деньги от iTunes",st,FromMenu,LB,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118082662,"2018-04-22 15:43:24",28,"2018-04-25 15:46:17",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,HT,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118338550,"2018-05-03 08:46:27",5,"2018-05-03 13:51:59",1071,749,19,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118111086,"2018-04-23 20:53:32",1,"2018-04-23 20:55:40",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118467090,"2018-05-07 09:24:38",1,"2018-05-07 09:24:54",845,591,147,"Деньги от iTunes",st,,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118007825,"2018-04-18 22:56:43",2,"2018-04-25 23:41:18",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-22 00:44:33",118070071,"2018-04-22 00:44:33",5,"2018-04-30 18:21:16",280,272,147,"Деньги от Payment Ninja",st,promo.key31,RU,topfacemobappandroid,pn.sub.vip.week.3
+,,,118145726,"2018-04-25 19:35:22",3,"2018-05-05 19:36:48",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,DE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118061702,"2018-04-21 17:33:37",2,"2018-04-24 17:40:26",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118117785,"2018-04-24 04:57:41",1,"2018-04-24 05:03:16",299,209,147,"Деньги от iTunes",fb,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118069491,"2018-04-22 00:03:44",3,"2018-05-02 20:42:29",192,134,147,"Деньги от iTunes",fb,FromProfile,ID,topfacemobappios,com.topface.topface.premium.week.1
+,,,118139489,"2018-04-25 12:34:25",2,"2018-04-29 00:29:34",198,138,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118284302,"2018-05-01 17:05:28",11,"2018-05-03 09:35:04",63,54,19,"Деньги от Paymentwall (web)",st,sympathy_access,RU,standalonetf,
+,,,118103168,"2018-04-23 13:40:16",2,"2018-04-26 13:42:03",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,NG,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118001324,"2018-04-18 19:50:34",2,"2018-04-22 17:55:12",662,463,147,"Деньги от iTunes",st,PopularUserBlockDialog,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118326759,"2018-05-02 22:51:48",4,"2018-05-03 11:19:51",359,251,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118201528,"2018-04-28 01:36:53",1,"2018-04-28 01:43:04",999,699,147,"Деньги от iTunes",fb,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118098008,"2018-04-23 07:10:51",2,"2018-04-26 07:12:04",1033,723,147,"Деньги от iTunes",st,FromVipTrialPopup,IE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-26 15:15:37",118163639,"2018-04-26 15:15:36",8,"2018-04-27 12:45:33",999,699,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118069787,"2018-04-22 00:24:37",5,"2018-04-25 00:26:30",685,479,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118042462,"2018-04-20 17:39:32",1,"2018-04-20 17:47:33",422,295,147,"Деньги от iTunes",st,FromMenu,NO,topfacemobappios,com.topface.topface.premium.week.1
+,,,118213757,"2018-04-28 15:43:29",2,"2018-05-01 16:10:17",1022,715,147,"Деньги от iTunes",st,FromVipTrialPopup,MA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118094953,"2018-04-23 01:58:03",8,"2018-04-24 21:56:55",122,85,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118355203,"2018-05-03 21:52:16",3,"2018-05-06 14:52:34",482,337,19,"Деньги от iTunes",st,FromGuests,PH,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118213703,"2018-04-28 15:39:50",1,"2018-04-28 20:34:00",299,209,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118178110,"2018-04-27 05:00:03",1,"2018-04-27 05:04:02",299,209,147,"Деньги от iTunes",st,FromMenu,GB,topfacemobappios,com.topface.topface.premium.week.1
+,,,118066805,"2018-04-21 21:56:32",5,"2018-04-22 11:52:17",122,85,19,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118414869,"2018-05-05 22:55:36",2,"2018-05-05 23:07:34",3351,2345,19,"Деньги от iTunes",st,FromMenu,IT,topfacemobappios,com.topface.topface.buy.coins.300
+,,,117991814,"2018-04-18 13:53:30",2,"2018-04-22 07:15:46",786,550,147,"Деньги от iTunes",st,FromVipTrialPopup,VN,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118006596,"2018-04-18 22:23:10",1,"2018-04-18 22:26:08",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118149411,"2018-04-25 22:31:32",1,"2018-04-25 22:34:35",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118284302,"2018-05-01 17:05:28",4,"2018-05-01 20:26:29",63,55,19,"Деньги от Paymentwall (web)",st,coins_popup_gift,RU,standalonetf,
+,,,118223749,"2018-04-29 00:10:45",2,"2018-05-02 00:11:30",834,583,147,"Деньги от iTunes",fb,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118059783,"2018-04-21 15:29:36",2,"2018-04-26 21:04:40",2705,1893,19,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.buy.coins.300
+,,,118042981,"2018-04-20 18:14:25",1,"2018-04-21 17:01:14",299,209,147,"Деньги от iTunes",fb,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118106123,"2018-04-23 16:36:01",7,"2018-05-06 19:55:44",280,271,147,"Деньги от Payment Ninja",st,Dating,RU,topfacemobappandroid,pn.sub.vip.week.3
+,,,118093359,"2018-04-23 00:09:30",2,"2018-04-28 08:34:17",692,484,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-20 15:08:03",118039987,"2018-04-20 15:08:03",1,"2018-04-20 15:28:21",285,276,68,"Деньги от Ninja",vk,super_popup_profile_menu,RU,standalonetf,premium.pack7
+,,,118361741,"2018-05-04 03:57:56",1,"2018-05-04 04:00:44",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118010336,"2018-04-19 00:32:06",12,"2018-04-29 12:03:56",198,138,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118199083,"2018-04-27 23:20:23",1,"2018-05-07 00:18:42",638,446,147,"Деньги от iTunes",st,FromMenu,QA,topfacemobappios,com.topface.topface.premium.month.1
+,,,118195245,"2018-04-27 20:49:10",1,"2018-04-28 10:01:13",1014,709,147,"Деньги от iTunes",st,FromMenu,CH,topfacemobappios,com.topface.topface.premium.month.1
+9556,63,"2018-04-18 11:25:46",117988629,"2018-04-18 11:25:45",11,"2018-04-20 20:58:24",259,181,67,"Деньги от iTunes",fb,,PK,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118244460,"2018-04-29 22:25:19",34,"2018-05-02 12:59:24",109,76,19,"Деньги от iTunes",fb,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118235800,"2018-04-29 14:47:41",2,"2018-05-02 20:36:13",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,CY,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118199112,"2018-04-27 23:21:24",2,"2018-04-30 23:32:08",1027,718,147,"Деньги от iTunes",fb,FromVipTrialPopup,BE,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118300915,"2018-05-02 09:25:51",5,"2018-05-04 08:32:27",119,83,19,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118018257,"2018-04-19 11:49:16",15,"2018-05-02 12:56:16",360,251,147,"Деньги от iTunes",vk,,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118049768,"2018-04-21 00:05:12",1,"2018-04-21 00:08:39",664,464,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118050452,"2018-04-21 00:53:34",8,"2018-04-21 23:45:41",319,223,67,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118411375,"2018-05-05 20:59:49",2,"2018-05-06 06:00:30",602,421,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118138001,"2018-04-25 10:19:31",1,"2018-04-25 10:22:19",195,136,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118050737,"2018-04-21 01:21:01",4,"2018-05-01 01:22:06",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-30 08:19:38",118252825,"2018-04-30 08:19:37",3,"2018-04-30 08:23:05",367,256,147,"Деньги от iTunes",fb,FromMenu,RU,standalonetf,com.topface.topface.premium.week.1
+,,,118090822,"2018-04-22 22:06:45",3,"2018-05-02 22:07:46",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,IT,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118344822,"2018-05-03 14:11:46",1,"2018-05-03 21:51:01",189,132,147,"Деньги от iTunes",fb,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118043516,"2018-04-20 18:44:24",1,"2018-04-23 13:16:48",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118232741,"2018-04-29 11:55:25",1,"2018-05-06 06:49:29",283,198,147,"Деньги от iTunes",st,,IN,topfacemobappios,com.topface.topface.premium.week.1
+,,,118247011,"2018-04-30 00:32:09",2,"2018-05-05 01:25:06",558,541,68,"Деньги от Ninja",st,super_popup_on_loss,RU,topfacemobappios,premium.pack30
+,,,118036345,"2018-04-20 10:55:42",3,"2018-04-30 10:57:02",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118300364,"2018-05-02 09:02:08",1,"2018-05-03 10:00:01",999,699,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.month.1
+,,,118177846,"2018-04-27 04:31:41",5,"2018-04-27 05:53:59",101,70,19,"Деньги от iTunes",fb,FromMenu,MX,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118414869,"2018-05-05 22:55:36",1,"2018-05-05 23:06:23",10773,7541,147,"Деньги от iTunes",st,FromMyProfile,IT,topfacemobappios,com.topface.topface.premium.month.12
+597,12,"2018-04-22 12:58:05",118079476,"2018-04-22 12:58:05",9,"2018-04-29 11:27:00",64,62,19,"Деньги от Ninja",st,coins_popup_navigation,RU,topfacemobappios,coin.one
+,,,118384448,"2018-05-04 22:46:32",4,"2018-05-05 11:21:10",299,209,67,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118345709,"2018-05-03 14:55:17",9,"2018-05-06 14:57:00",840,588,147,"Деньги от iTunes",ok,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118102359,"2018-04-23 12:53:28",6,"2018-04-24 09:37:33",121,84,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118007825,"2018-04-18 22:56:43",1,"2018-04-18 23:40:41",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118018224,"2018-04-19 11:46:53",6,"2018-04-27 20:40:07",369,258,147,"Деньги от iTunes",ok,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118090822,"2018-04-22 22:06:45",2,"2018-04-25 22:07:46",1035,724,147,"Деньги от iTunes",st,FromVipTrialPopup,IT,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118420761,"2018-05-06 03:53:11",1,"2018-05-06 03:55:02",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118450653,"2018-05-06 23:21:34",1,"2018-05-06 23:28:55",364,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118419838,"2018-05-06 02:40:05",1,"2018-05-06 03:07:56",299,209,147,"Деньги от iTunes",fb,FromMyProfile,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118113999,"2018-04-23 23:11:57",1,"2018-04-24 11:22:07",1220,854,147,"Деньги от iTunes",st,,IT,topfacemobappios,com.topface.topface.premium.month.1
+,,,117993880,"2018-04-18 15:12:44",5,"2018-04-26 06:42:53",118,82,19,"Деньги от iTunes",st,FromLikes,IN,standalonetf,com.topface.topface.buy.coins.6
+,,,118233708,"2018-04-29 12:51:01",1,"2018-04-30 18:43:19",2699,1889,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.3
+,,,118212100,"2018-04-28 14:02:40",2,"2018-05-01 14:05:14",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,QA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118178110,"2018-04-27 05:00:03",2,"2018-05-04 05:03:59",299,209,147,"Деньги от iTunes",st,FromMenu,GB,topfacemobappios,com.topface.topface.premium.week.1
+,,,118411375,"2018-05-05 20:59:49",1,"2018-05-06 05:56:54",364,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118222022,"2018-04-28 22:46:10",3,"2018-04-29 16:14:05",136,95,19,"Деньги от iTunes",fb,FromLikes,GB,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118117133,"2018-04-24 03:40:06",1,"2018-04-24 03:45:24",299,209,147,"Деньги от iTunes",st,FromMyProfile,DE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118146357,"2018-04-25 20:05:25",1,"2018-04-29 09:50:09",299,209,147,"Деньги от iTunes",st,PopularUserChatBlock,FR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118070871,"2018-04-22 01:53:51",4,"2018-04-29 01:13:23",363,254,147,"Деньги от iTunes",fb,FromMenu,DE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118009787,"2018-04-19 00:05:51",10,"2018-04-25 22:43:11",367,256,67,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118271429,"2018-05-01 01:33:41",7,"2018-05-02 08:59:46",118,82,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118010336,"2018-04-19 00:32:06",16,"2018-05-06 12:03:52",189,132,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,117999395,"2018-04-18 18:43:37",1,"2018-04-18 18:44:03",373,261,147,"Деньги от iTunes",st,,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118348181,"2018-05-03 17:01:31",4,"2018-05-04 11:20:14",119,83,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118131764,"2018-04-24 23:23:05",3,"2018-04-27 23:26:01",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,LB,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118370224,"2018-05-04 13:07:30",1,"2018-05-04 13:17:40",187,130,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118264624,"2018-04-30 20:20:58",4,"2018-05-01 12:02:46",421,294,67,"Деньги от iTunes",st,FromLikes,LV,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118071914,"2018-04-22 03:32:38",1,"2018-04-22 04:13:49",373,261,147,"Деньги от iTunes",vk,FromMyProfile,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118004229,"2018-04-18 21:18:41",2,"2018-04-29 09:19:40",311,217,147,"Деньги от iTunes",fb,,CA,topfacemobappios,com.topface.topface.premium.week.1
+,,,117997437,"2018-04-18 17:31:09",14,"2018-04-19 22:41:52",376,263,67,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,117997437,"2018-04-18 17:31:09",6,"2018-04-18 19:07:19",373,261,147,"Деньги от iTunes",st,FromProfile,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118264624,"2018-04-30 20:20:58",1,"2018-04-30 20:33:42",362,253,147,"Деньги от iTunes",st,FromMenu,LV,topfacemobappios,com.topface.topface.premium.week.1
+,,,118316564,"2018-05-02 18:32:07",1,"2018-05-04 19:14:06",111,56,19,Голоса,vk,coins_popup_navigation,RU,topfacemobappios,coin.two
+597,12,"2018-04-27 22:32:21",118197945,"2018-04-27 22:32:21",3,"2018-04-27 23:22:20",999,699,147,"Деньги от iTunes",st,,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118059783,"2018-04-21 15:29:36",1,"2018-04-26 20:09:44",665,465,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118358031,"2018-05-03 23:35:44",1,"2018-05-04 13:33:24",299,209,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118368241,"2018-05-04 11:24:02",5,"2018-05-05 10:09:56",99,69,19,"Деньги от iTunes",fb,FromLikes,CA,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118265310,"2018-04-30 20:47:05",2,"2018-05-01 19:47:10",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118366543,"2018-05-04 09:40:25",4,"2018-05-07 09:51:39",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118222022,"2018-04-28 22:46:10",1,"2018-04-28 22:48:37",316,221,147,"Деньги от iTunes",fb,FromMenu,GB,topfacemobappios,com.topface.topface.premium.week.1
+,,,118033291,"2018-04-20 06:24:31",1,"2018-04-29 20:13:01",198,138,147,"Деньги от iTunes",st,PopularUserBlockDialog,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118069491,"2018-04-22 00:03:44",2,"2018-04-25 20:42:28",195,136,147,"Деньги от iTunes",fb,FromProfile,ID,topfacemobappios,com.topface.topface.premium.week.1
+,,,118008841,"2018-04-18 23:30:29",2,"2018-05-01 01:11:51",132,92,19,"Деньги от iTunes",st,FromGuests,IT,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118149411,"2018-04-25 22:31:32",2,"2018-05-03 22:30:22",299,209,147,"Деньги от iTunes",st,,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118262192,"2018-04-30 18:16:13",1,"2018-04-30 18:32:08",999,699,147,"Деньги от iTunes",st,FromGuests,US,topfacemobappandroid,com.topface.topface.premium.month.1
+,,,118228606,"2018-04-29 07:34:36",1,"2018-04-30 03:34:39",299,209,147,"Деньги от iTunes",st,FromMenu,MY,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-04-28 12:56:13",118210988,"2018-04-28 12:56:13",4,"2018-05-02 13:03:56",1319,923,19,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118019715,"2018-04-19 13:26:47",1,"2018-04-19 13:27:03",250,175,147,"Деньги от iTunes",st,,NG,topfacemobappios,com.topface.topface.premium.week.1
+,,,118010765,"2018-04-19 00:57:41",2,"2018-04-23 18:47:46",1223,856,147,"Деньги от iTunes",fb,VipDelivery,PT,topfacemobappios,com.topface.topface.premium.month.1
+,,,118108955,"2018-04-23 19:10:14",7,"2018-05-01 01:58:01",197,137,147,"Деньги от iTunes",st,VipDelivery,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118029529,"2018-04-19 23:20:10",2,"2018-04-22 23:21:38",862,603,147,"Деньги от iTunes",ok,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118300364,"2018-05-02 09:02:08",5,"2018-05-06 19:23:15",299,209,67,"Деньги от iTunes",st,FromLikes,UA,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118213703,"2018-04-28 15:39:50",9,"2018-05-05 20:33:56",299,209,147,"Деньги от iTunes",st,FromMenu,UA,topfacemobappios,com.topface.topface.premium.week.1
+,,,118061702,"2018-04-21 17:33:37",3,"2018-05-01 17:40:27",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118347407,"2018-05-03 16:22:53",2,"2018-05-03 16:50:47",547,382,19,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118155104,"2018-04-26 05:38:29",5,"2018-05-03 20:58:06",363,254,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118118930,"2018-04-24 07:03:47",5,"2018-04-30 04:24:07",374,261,67,"Деньги от iTunes",st,FromLikes,GE,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118027784,"2018-04-19 21:46:21",5,"2018-04-21 10:26:08",122,85,19,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118204212,"2018-04-28 05:35:42",4,"2018-04-28 19:01:18",499,349,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118244460,"2018-04-29 22:25:19",16,"2018-05-01 14:30:36",318,222,67,"Деньги от iTunes",fb,FromLikes,TR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118068349,"2018-04-21 23:04:20",2,"2018-04-22 02:23:14",299,209,67,"Деньги от iTunes",st,FromLikes,LR,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118113646,"2018-04-23 22:51:43",1,"2018-04-23 22:52:54",194,135,147,"Деньги от iTunes",st,FromMenu,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118135929,"2018-04-25 06:58:23",4,"2018-04-28 06:59:58",799,559,147,"Деньги от iTunes",fb,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118207536,"2018-04-28 09:43:34",7,"2018-04-29 12:13:41",121,84,19,"Деньги от iTunes",vk,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118079843,"2018-04-22 13:19:16",7,"2018-04-23 16:21:55",3052,2136,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.300
+,,,118075520,"2018-04-22 08:54:32",1,"2018-04-25 18:07:15",368,257,147,"Деньги от iTunes",st,VipDelivery,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118042949,"2018-04-20 18:12:16",2,"2018-04-23 18:26:21",684,478,147,"Деньги от iTunes",fb,FromVipTrialPopup,TR,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118149120,"2018-04-25 22:18:07",2,"2018-04-28 22:19:06",851,595,147,"Деньги от iTunes",st,FromVipTrialPopup,RU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118021088,"2018-04-19 14:58:30",2,"2018-04-26 15:01:05",196,137,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118343973,"2018-05-03 13:29:38",2,"2018-05-03 13:51:22",2658,1860,19,"Деньги от iTunes",vk,FromGuests,EG,topfacemobappios,com.topface.topface.buy.coins.300
+,,,118148922,"2018-04-25 22:09:49",4,"2018-05-06 01:32:33",1016,711,147,"Деньги от iTunes",st,FromVipTrialPopup,MA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118102359,"2018-04-23 12:53:28",15,"2018-05-01 20:36:00",361,252,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118117133,"2018-04-24 03:40:06",2,"2018-05-01 03:45:21",299,209,147,"Деньги от iTunes",st,FromMyProfile,DE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118360486,"2018-05-04 02:01:11",4,"2018-05-07 02:02:47",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118050452,"2018-04-21 00:53:34",14,"2018-04-23 00:27:24",110,77,19,"Деньги от iTunes",st,FromLikes,TR,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118233708,"2018-04-29 12:51:01",3,"2018-05-03 01:13:22",499,349,19,"Деньги от iTunes",st,FromLikes,US,topfacemobappios,com.topface.topface.buy.coins.40
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",35,"2018-04-30 10:03:58",601,420,19,"Деньги от iTunes",st,FromLikes,IN,topfacemobappios,com.topface.topface.buy.coins.40
+,,,118348181,"2018-05-03 17:01:31",1,"2018-05-04 10:47:02",364,254,67,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118084945,"2018-04-22 17:35:32",6,"2018-04-23 13:45:10",1345,941,19,"Деньги от iTunes",st,FromLikes,DE,topfacemobappios,com.topface.topface.buy.coins.100
+,,,118227414,"2018-04-29 05:49:19",1,"2018-04-29 05:49:31",299,209,147,"Деньги от iTunes",ok,,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118087363,"2018-04-22 19:30:14",2,"2018-04-29 20:47:57",263,184,147,"Деньги от iTunes",st,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+9449,63,"2018-05-03 00:43:18",118329171,"2018-05-03 00:00:37",2,"2018-05-06 00:44:58",881,616,147,"Деньги от iTunes",fb,FromVipTrialPopup,IN,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+9501,63,"2018-04-21 07:36:16",118046872,"2018-04-20 21:34:00",11,"2018-04-21 22:49:25",119,83,19,"Деньги от iTunes",st,FromLikes,IN,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118127552,"2018-04-24 19:03:40",1,"2018-04-24 20:49:22",260,182,147,"Деньги от iTunes",st,FromMenu,MX,topfacemobappios,com.topface.topface.premium.week.1
+,,,117999522,"2018-04-18 18:48:48",1,"2018-04-18 22:55:35",299,209,147,"Деньги от iTunes",st,FromMenu,GH,topfacemobappios,com.topface.topface.premium.week.1
+,,,118021088,"2018-04-19 14:58:30",1,"2018-04-19 15:01:05",198,138,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118186647,"2018-04-27 14:06:52",2,"2018-04-27 14:38:31",120,84,19,"Деньги от iTunes",st,FromBuyLeader,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118384448,"2018-05-04 22:46:32",1,"2018-05-04 22:51:28",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118106352,"2018-04-23 16:49:24",9,"2018-05-04 12:12:23",131,91,19,"Деньги от iTunes",st,FromLikes,AT,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118082452,"2018-04-22 15:32:29",1,"2018-04-23 01:25:28",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118059258,"2018-04-21 14:55:47",2,"2018-04-24 14:56:14",913,639,147,"Деньги от iTunes",fb,FromVipTrialPopup,AU,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118238987,"2018-04-29 17:51:11",1,"2018-04-29 17:51:21",369,258,147,"Деньги от iTunes",vk,,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118249610,"2018-04-30 04:08:12",1,"2018-04-30 04:19:39",299,209,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118343973,"2018-05-03 13:29:38",1,"2018-05-03 13:29:49",905,633,147,"Деньги от iTunes",vk,,EG,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118036345,"2018-04-20 10:55:42",2,"2018-04-23 10:57:02",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118149779,"2018-04-25 22:48:16",2,"2018-04-29 16:29:06",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,UA,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+,,,118102359,"2018-04-23 12:53:28",12,"2018-04-25 15:27:29",122,85,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118288909,"2018-05-01 20:41:56",1,"2018-05-01 21:05:42",299,209,147,"Деньги от iTunes",st,FromGuests,US,standalonetf,com.topface.topface.premium.week.1
+,,,118251218,"2018-04-30 06:19:08",2,"2018-05-03 06:22:05",907,634,147,"Деньги от iTunes",st,FromVipTrialPopup,EG,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
+597,12,"2018-04-28 12:56:13",118210988,"2018-04-28 12:56:13",1,"2018-04-28 13:00:09",1213,849,147,"Деньги от iTunes",st,FromMenu,US,topfacemobappios,com.topface.topface.premium.month.1
+,,,118018998,"2018-04-19 12:39:00",1,"2018-04-19 12:43:50",375,262,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+,,,118447906,"2018-05-06 22:03:38",1,"2018-05-06 22:06:44",299,209,147,"Деньги от iTunes",st,FromMenu,KE,topfacemobappios,com.topface.topface.premium.week.1
+,,,118059783,"2018-04-21 15:29:36",4,"2018-04-26 21:09:47",2705,1893,19,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.buy.coins.300
+,,,118058561,"2018-04-21 14:05:51",1,"2018-04-23 06:22:32",305,213,147,"Деньги от iTunes",st,FromGuests,KZ,topfacemobappios,com.topface.topface.premium.week.1
+,,,118349035,"2018-05-03 17:42:50",2,"2018-05-04 18:24:35",418,292,67,"Деньги от iTunes",st,FromFollowers,IT,topfacemobappios,com.topface.topface.buy.likes.1
+,,,118159572,"2018-04-26 10:58:52",1,"2018-04-27 11:00:39",365,255,147,"Деньги от iTunes",st,FromGuests,US,topfacemobappios,com.topface.topface.premium.week.1
+,,,118297969,"2018-05-02 06:23:27",1,"2018-05-02 06:24:37",360,251,147,"Деньги от iTunes",st,FromMenu,RU,topfacemobappios,com.topface.topface.premium.week.1
+597,12,"2018-05-02 19:46:31",118294699,"2018-05-02 01:24:44",11,"2018-05-06 23:35:57",638,446,147,"Деньги от iTunes",fb,FromMenu,TR,topfacemobappios,com.topface.topface.premium.month.1
+,,,118102359,"2018-04-23 12:53:28",4,"2018-04-24 09:37:22",121,84,19,"Деньги от iTunes",st,FromLikes,RU,topfacemobappios,com.topface.topface.buy.coins.6
+,,,118297825,"2018-05-02 06:10:01",1,"2018-05-02 06:22:52",195,136,147,"Деньги от iTunes",st,FromMyProfile,TR,topfacemobappios,com.topface.topface.premium.week.1
+,,,118296322,"2018-05-02 03:49:22",2,"2018-05-05 05:04:58",799,559,147,"Деньги от iTunes",st,FromVipTrialPopup,US,topfacemobappios,com.topface.topface.premium.trial.weekly.0799
